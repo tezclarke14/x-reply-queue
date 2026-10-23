@@ -13,17 +13,17 @@
   },
   {
    "date": "2026-10-23",
-   "replies": 0,
-   "impressions": 0,
+   "replies": 2,
+   "impressions": 93,
    "likes": 0,
    "replies_got": 0,
-   "avg_delay_h": null,
+   "avg_delay_h": 11.4,
    "used_suggestion": 0,
-   "best": "",
+   "best": "https://x.com/onhand_terry/status/2113618494574964791",
    "followers": 41
   }
  ],
- "updated": "Oct 23 2026 07:43 AM CT",
+ "updated": "Oct 23 2026 12:27 PM CT",
  "rows": [
   {
    "id": "2111594241478783234",
@@ -32,7 +32,7 @@
    "kind": "replied_to",
    "at": "Oct 17 06:04 PM CT",
    "date": "2026-10-17",
-   "imp": 5813,
+   "imp": 5815,
    "likes": 81,
    "replies": 0,
    "reposts": 1,
@@ -41,9 +41,9 @@
    "parent_author": "Chatnovski",
    "parent_url": "https://x.com/Chatnovski/status/2111381203857146314",
    "parent_text": "There’s a guy on IG who pours a whole pack of sugar on an ant hill to “give them sudden wealth, cause inflation and crash their economy” 😭😭😭",
-   "parent_imp": 6351982,
+   "parent_imp": 6352776,
    "delay_h": 14.1,
-   "score": 7513
+   "score": 7515
   },
   {
    "id": "2112204653702033809",
@@ -61,7 +61,7 @@
    "parent_author": "andreasklinger",
    "parent_url": "https://x.com/andreasklinger/status/2112096741491155292",
    "parent_text": "200 AUAR micro factories. That’s all the UK needs to clear its entire yearly housing backlog. 🏗️\n\nI just visited AUAR in London. They are building fully autonomous micro factories for houses. A roboti",
-   "parent_imp": 27604,
+   "parent_imp": 27626,
    "delay_h": 7.1,
    "score": 155
   },
@@ -81,7 +81,7 @@
    "parent_author": "CiprianiRanieri",
    "parent_url": "https://x.com/CiprianiRanieri/status/2111825124815163653",
    "parent_text": "2 replies out of 97 cold emails.\nquit or keep going?",
-   "parent_imp": 197365,
+   "parent_imp": 197420,
    "delay_h": 37.7,
    "score": 151
   },
@@ -101,7 +101,7 @@
    "parent_author": "CiprianiRanieri",
    "parent_url": "https://x.com/CiprianiRanieri/status/2111825124815163653",
    "parent_text": "2 replies out of 97 cold emails.\nquit or keep going?",
-   "parent_imp": 197365,
+   "parent_imp": 197420,
    "delay_h": 37.7,
    "score": 96
   },
@@ -126,6 +126,28 @@
    "score": 96
   },
   {
+   "id": "2113618494574964791",
+   "url": "https://x.com/onhand_terry/status/2113618494574964791",
+   "text": "Did you get quotes direct, or through an aggregator?",
+   "kind": "replied_to",
+   "at": "Oct 23 08:08 AM CT",
+   "date": "2026-10-23",
+   "imp": 88,
+   "likes": 0,
+   "replies": 0,
+   "reposts": 0,
+   "bm": 0,
+   "words": 9,
+   "parent_author": "ChrisRamsey60",
+   "parent_url": "https://x.com/ChrisRamsey60/status/2113595155756265745",
+   "parent_text": "You need to get multiple loan quotes on every deal.\n\nI just got five quotes for the same deal:\n\n6.5%\n6.975%\n7%\n7.1%\n7.2%\n\nSame borrower. Same property. Five different rates.\n\nA few extra phone calls c",
+   "parent_imp": 4766,
+   "delay_h": 1.5,
+   "suggested": "70 basis points from five phone calls. Most owners spend more time picking a truck wrap than shopping their debt.",
+   "sim": 19,
+   "score": 88
+  },
+  {
    "id": "2112060310962200719",
    "url": "https://x.com/onhand_terry/status/2112060310962200719",
    "text": "could have just said excuse me",
@@ -141,7 +163,7 @@
    "parent_author": "jamesonhaslam",
    "parent_url": "https://x.com/jamesonhaslam/status/2112011667634860531",
    "parent_text": "the ETP Orca pod killed this massive fin whale off the coast of socal yesterday 😳 https://t.co/DnKCCjGqxc",
-   "parent_imp": 4845,
+   "parent_imp": 4854,
    "delay_h": 3.2,
    "score": 87
   },
@@ -161,7 +183,7 @@
    "parent_author": "agazdecki",
    "parent_url": "https://x.com/agazdecki/status/2113048159459172475",
    "parent_text": "Nobody really prepares founders for how exciting it is when their employees start coming up with better ideas than they do.",
-   "parent_imp": 12575,
+   "parent_imp": 12675,
    "delay_h": 14.4,
    "suggested": "Same thing in a trades shop when a tech fixes a process you didn't know was broken. The best ideas come from whoever's closest to the customer, and in HVAC that's rarely the owner.",
    "sim": 2,
@@ -174,7 +196,7 @@
    "kind": "replied_to",
    "at": "Oct 22 10:03 AM CT",
    "date": "2026-10-22",
-   "imp": 35,
+   "imp": 37,
    "likes": 1,
    "replies": 0,
    "reposts": 0,
@@ -183,9 +205,9 @@
    "parent_author": "HVACSEO",
    "parent_url": "https://x.com/HVACSEO/status/2113276700477833616",
    "parent_text": "Back in march/april, claude was clearly the best AI to me. Today, its Chat gpt and its not even close imo. Their agent, Dot, is great. Claude got too annoying to deal with, especially when it got on i",
-   "parent_imp": 774,
+   "parent_imp": 833,
    "delay_h": 0.6,
-   "score": 55
+   "score": 57
   },
   {
    "id": "2113264573826408614",
@@ -203,7 +225,7 @@
    "parent_author": "agazdecki",
    "parent_url": "https://x.com/agazdecki/status/2113243358609191222",
    "parent_text": "Turning down a $6M offer for your startup is basically making a $6M bet on yourself... and that's a pretty big bet.\n\nImagine you've spent 5 years building a SaaS company.\n\nIt's doing $1M a year in pro",
-   "parent_imp": 3239,
+   "parent_imp": 3271,
    "delay_h": 1.4,
    "suggested": "Best test in here: would you spend $6M buying your own company today? Most founders say yes instantly. Far fewer would for a stranger's company with the same numbers.",
    "sim": 18,
@@ -225,7 +247,7 @@
    "parent_author": "sweatystartup",
    "parent_url": "https://x.com/sweatystartup/status/2112940222510252104",
    "parent_text": "Six months into any business you're doing the same thing every other business is doing i.e hiring, training, managing, firing, marketing, sales, and problem solving. \n\nIf you're still providing the se",
-   "parent_imp": 20067,
+   "parent_imp": 20128,
    "delay_h": 21.4,
    "suggested": "In trades the trap is sneakier. The owner stops turning wrenches and starts answering every call instead. Still a job, just one with more interruptions.",
    "sim": 28,
@@ -238,7 +260,7 @@
    "kind": "replied_to",
    "at": "Oct 22 09:21 AM CT",
    "date": "2026-10-22",
-   "imp": 16,
+   "imp": 18,
    "likes": 0,
    "replies": 1,
    "reposts": 0,
@@ -247,9 +269,9 @@
    "parent_author": "ConnorAbene",
    "parent_url": "https://x.com/ConnorAbene/status/2112915573277434211",
    "parent_text": "Last year, we acquired 2 businesses with nearly $3.5M in combined annual revenue.\n\nIt was one of the biggest learning experiences of my career.\n\nHere are 4 lessons I'd share with anyone considering an",
-   "parent_imp": 3792,
+   "parent_imp": 3820,
    "delay_h": 23.8,
-   "score": 46
+   "score": 48
   },
   {
    "id": "2113263463535407534",
@@ -258,7 +280,7 @@
    "kind": "replied_to",
    "at": "Oct 22 08:37 AM CT",
    "date": "2026-10-22",
-   "imp": 45,
+   "imp": 48,
    "likes": 0,
    "replies": 0,
    "reposts": 0,
@@ -267,11 +289,11 @@
    "parent_author": "cleanwithmike",
    "parent_url": "https://x.com/cleanwithmike/status/2112889409422979271",
    "parent_text": "Things you should've done in 2021:\n\n• Learn AI \n• Invest in stocks\n• Lock in a 3% mortgage\n\nThings you should do in 2027:",
-   "parent_imp": 281027,
+   "parent_imp": 281313,
    "delay_h": 24.8,
    "suggested": "Buy a boring service business and put AI on the phones. In 2021 the edge was learning AI. In 2027 it's pointing it at a trade where the phone still rings out after 5pm.",
    "sim": 35,
-   "score": 45
+   "score": 48
   },
   {
    "id": "2113285986251927619",
@@ -280,7 +302,7 @@
    "kind": "replied_to",
    "at": "Oct 22 10:06 AM CT",
    "date": "2026-10-22",
-   "imp": 37,
+   "imp": 38,
    "likes": 0,
    "replies": 0,
    "reposts": 0,
@@ -289,9 +311,9 @@
    "parent_author": "lkr",
    "parent_url": "https://x.com/lkr/status/2113240067804197204",
    "parent_text": "my advice is DONT KEEP UP WITH AI\n\nif its fun for you, great\n\nbut if you're trying to get work done just pick codex or claudecode and stick with it, doesn't matter which\n\nkeep experimenting with all t",
-   "parent_imp": 3787,
+   "parent_imp": 3845,
    "delay_h": 3.0,
-   "score": 37
+   "score": 38
   },
   {
    "id": "2113377694498914413",
@@ -300,13 +322,13 @@
    "kind": "post",
    "at": "Oct 22 04:11 PM CT",
    "date": "2026-10-22",
-   "imp": 11,
+   "imp": 13,
    "likes": 1,
    "replies": 0,
    "reposts": 0,
    "bm": 0,
    "words": 49,
-   "score": 31
+   "score": 33
   },
   {
    "id": "2113265553947447524",
@@ -324,7 +346,7 @@
    "parent_author": "ChrisRamsey60",
    "parent_url": "https://x.com/ChrisRamsey60/status/2113234322312368310",
    "parent_text": "Everybody wants to own a service business. Here’s how I would start.\n\nWhen you own enough real estate, you already have a pipeline of work. Maintenance, construction, HVAC, landscaping and snow remova",
-   "parent_imp": 4197,
+   "parent_imp": 4274,
    "delay_h": 2.1,
    "suggested": "Last line is the whole post. Your invoices are a market you've already validated with your own money. One rule I'd add: hand the operator real systems on day one, or you've just bought someone a job.",
    "sim": 26,
@@ -346,11 +368,33 @@
    "parent_author": "cleanwithmike",
    "parent_url": "https://x.com/cleanwithmike/status/2112922118354506025",
    "parent_text": "Unpopular opinion:\n\nA guy making $120k running a boring cleaning business with 30+ hours of free time every week is wealthier than a banker making $300k who can't take a Tuesday off.",
-   "parent_imp": 3340,
+   "parent_imp": 3356,
    "delay_h": 22.7,
    "suggested": "The Tuesday is the real salary. The trap in trades is hitting $300k and still having every call ring your cell.",
    "sim": 33,
    "score": 27
+  },
+  {
+   "id": "2113266624023466260",
+   "url": "https://x.com/onhand_terry/status/2113266624023466260",
+   "text": "No idea how a CRM not proactively providing this can compete today. Should be table stakes for everybody",
+   "kind": "replied_to",
+   "at": "Oct 22 08:50 AM CT",
+   "date": "2026-10-22",
+   "imp": 9,
+   "likes": 0,
+   "replies": 0,
+   "reposts": 0,
+   "bm": 0,
+   "words": 18,
+   "parent_author": "WilsonCompanies",
+   "parent_url": "https://x.com/WilsonCompanies/status/2112905786758214100",
+   "parent_text": "Your CRM should show you where leads come from, how many turn into sold jobs, and which marketing channels actually generate revenue. https://t.co/VM2XkMSnCP",
+   "parent_imp": 1297,
+   "delay_h": 23.9,
+   "suggested": "And if it can't show which leads called, didn't book, and never got a callback, it's a contact list with a subscription fee. That last group is where the money hides.",
+   "sim": 21,
+   "score": 9
   },
   {
    "id": "2113097959898587312",
@@ -368,31 +412,9 @@
    "parent_author": "kanekallaway",
    "parent_url": "https://x.com/kanekallaway/status/2112720461453013095",
    "parent_text": "If your content is flopping, it’s because you’re using the wrong story arc.\n\nThe traditional story arc (e.g., five act story) doesn’t work because brains are mush.\n\nPeople scroll away before rising ac",
-   "parent_imp": 39773,
+   "parent_imp": 39882,
    "delay_h": 25.0,
    "score": 8
-  },
-  {
-   "id": "2113266624023466260",
-   "url": "https://x.com/onhand_terry/status/2113266624023466260",
-   "text": "No idea how a CRM not proactively providing this can compete today. Should be table stakes for everybody",
-   "kind": "replied_to",
-   "at": "Oct 22 08:50 AM CT",
-   "date": "2026-10-22",
-   "imp": 6,
-   "likes": 0,
-   "replies": 0,
-   "reposts": 0,
-   "bm": 0,
-   "words": 18,
-   "parent_author": "WilsonCompanies",
-   "parent_url": "https://x.com/WilsonCompanies/status/2112905786758214100",
-   "parent_text": "Your CRM should show you where leads come from, how many turn into sold jobs, and which marketing channels actually generate revenue. https://t.co/VM2XkMSnCP",
-   "parent_imp": 1252,
-   "delay_h": 23.9,
-   "suggested": "And if it can't show which leads called, didn't book, and never got a callback, it's a contact list with a subscription fee. That last group is where the money hides.",
-   "sim": 21,
-   "score": 6
   },
   {
    "id": "2113261440543215622",
@@ -410,9 +432,31 @@
    "parent_author": "bot",
    "parent_url": "https://x.com/bot/status/2112992872857252082",
    "parent_text": "Grok Bot can now build reports, memos, and dashboards.\n\nAsk Bot for a page, then edit it together or have Bot keep it up to date. https://t.co/ytFfqqOPgJ",
-   "parent_imp": 1930714,
+   "parent_imp": 1978021,
    "delay_h": 17.8,
    "score": 6
+  },
+  {
+   "id": "2113619424616042761",
+   "url": "https://x.com/onhand_terry/status/2113619424616042761",
+   "text": "Running your own business is a tough gig if you hate selling",
+   "kind": "replied_to",
+   "at": "Oct 23 08:11 AM CT",
+   "date": "2026-10-23",
+   "imp": 5,
+   "likes": 0,
+   "replies": 0,
+   "reposts": 0,
+   "bm": 0,
+   "words": 12,
+   "parent_author": "andywalkerhq",
+   "parent_url": "https://x.com/andywalkerhq/status/2113298143181680973",
+   "parent_text": "If you hate selling, great.\n \nBuild an offer so clear and a guarantee so strong that the homeowner talks himself into it, and you'll never have to be the pushy guy to win the job.",
+   "parent_imp": 772,
+   "delay_h": 21.3,
+   "suggested": "Best close I heard this week wasn't mine. A realtor said \"I appreciate the hustle\" and offered to post us in her 177-person vendor group. Clear offer, zero pushing.",
+   "sim": 23,
+   "score": 5
   },
   {
    "id": "2113265259612127554",
@@ -430,7 +474,7 @@
    "parent_author": "andywalkerhq",
    "parent_url": "https://x.com/andywalkerhq/status/2112937721043755128",
    "parent_text": "A missed call feels like nothing. \n\nYou tell yourself: One in a day, who cares.\n \nMiss two bookable calls a week at an $8k ticket and that's $800k a year walking to the guy who picked up.\n \nSmall leak",
-   "parent_imp": 1155,
+   "parent_imp": 1168,
    "delay_h": 21.7,
    "suggested": "The missed call isn't the expensive part. The customer doesn't call back, they call the next number on Google. That's the first thing I'd point AI at in an HVAC shop: not marketing, the phone.",
    "sim": 18,
@@ -440,11 +484,11 @@
  "notes": {
   "date": "2026-10-23",
   "followers": 41,
-  "summary": "Yesterday (Oct 22): 12 replies + 1 original post, 321 views and 5 likes in total. Your best reply by score was the @agazdecki 'best places to work' reply (64 views, 0 likes), but it rode a 12.6k-view post. Pound for pound the winner was the @HVACSEO baby-formula joke: sent 0.6h after the post, 35 views + 1 like on a 774-view post. No replies yet today (Oct 23). Followers: 41.",
+  "summary": "Yesterday (Oct 22): 12 replies + 1 original post, 321 views and 5 likes in total. Your best reply by score was the @agazdecki 'best places to work' reply (64 views, 0 likes), but it rode a 12.6k-view post. Pound for pound the winner was the @HVACSEO baby-formula joke: sent 0.6h after the post, 35 views + 1 like on a 774-view post. Today so far (Oct 23, midday): 2 replies, both on morning-queue posts but in your own words. The @ChrisRamsey60 question ('Did you get quotes direct, or through an aggregator?') has 88 views; the @andywalkerhq reply has 5. The other 15 morning picks were skipped, so this run is cut to 5 fresh posts with angle hints instead of drafts. Followers: 41.",
   "lessons": [
    "Early beats big. The @HVACSEO joke went out 0.6h after the post and earned 35 views (4.5% of the post's 774 views). The @cleanwithmike reply went out 24.8h late on a 281k-view post and got 45 views (0.016%). Your 4 replies sent within 3.5h averaged ~33 views; the 8 sent 14h+ late averaged ~22.",
    "Funny and specific gets the like. The only reply-likes yesterday came from the baby-formula joke (1), a short contrarian take on @agazdecki (1), and the @sweatystartup reply (2). Pure agreement ('Solid advice...', 'Good plan if...', 'Different types of people...') got 0. Cut the 'Totally agree' warm-up and open with the punchline or a number.",
-   "Drafts still aren't being used (0 of 8 matched 60%+), and your own replies ran 17-41 words. Today's drafts are 20-30 words with one real detail each (your 11 property-manager calls, the Palo Alto number, the 177-person vendor group). Post them close to as written and trim, don't rewrite."
+   "Your own words beat the drafts again: 0 drafts used, and the short @ChrisRamsey60 question (9 words) is today's best at 88 views. A one-line question or joke is the format to keep; the queue now gives angle hints rather than full drafts."
   ],
   "trends": [
    "Speed: avg delay was 14.8h yesterday (down from 17.4h at Wednesday's snapshot). The fast replies (0.6h-3h) all came from posts you found yourself (@HVACSEO, @lkr) or the freshest queue posts (@agazdecki, @ChrisRamsey60).",
