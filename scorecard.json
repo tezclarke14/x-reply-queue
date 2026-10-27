@@ -67,7 +67,7 @@
    "followers": 47
   }
  ],
- "updated": "Oct 27 2026 07:29 AM CT",
+ "updated": "Oct 27 2026 12:21 PM CT",
  "rows": [
   {
    "id": "2113685074663116821",
@@ -85,7 +85,7 @@
    "parent_author": "typesfast",
    "parent_url": "https://x.com/typesfast/status/2113661586493833364",
    "parent_text": "What is the prevailing theory for why Fridays are such a popular work-from-home day?",
-   "parent_imp": 545382,
+   "parent_imp": 545451,
    "delay_h": 1.6,
    "score": 9741
   },
@@ -96,13 +96,13 @@
    "kind": "replied_to",
    "at": "Oct 23 02:24 PM CT",
    "date": "2026-10-23",
-   "imp": 4325,
+   "imp": 4326,
    "likes": 3,
    "replies": 0,
    "reposts": 0,
    "bm": 1,
    "words": 3,
-   "score": 4405
+   "score": 4406
   },
   {
    "id": "2113813347208691970",
@@ -120,9 +120,29 @@
    "parent_author": "kyleegriswold",
    "parent_url": "https://x.com/kyleegriswold/status/2113722058727465374",
    "parent_text": "Imagine thinking DINK-dom is better than this https://t.co/Xxsg1koxgn",
-   "parent_imp": 166478,
+   "parent_imp": 166488,
    "delay_h": 6.0,
    "score": 1970
+  },
+  {
+   "id": "2114845673220960668",
+   "url": "https://x.com/onhand_terry/status/2114845673220960668",
+   "text": "“You don’t love the answer” 10/10",
+   "kind": "replied_to",
+   "at": "Oct 26 05:24 PM CT",
+   "date": "2026-10-26",
+   "imp": 596,
+   "likes": 7,
+   "replies": 0,
+   "reposts": 0,
+   "bm": 0,
+   "words": 6,
+   "parent_author": "Slackwatercap",
+   "parent_url": "https://x.com/Slackwatercap/status/2114777031778992275",
+   "parent_text": "It’s 9am on a Tuesday, ten weeks after closing on a small pool maintenance and repair company.\n\nYou’re standing at the edge of a large commercial customer’s pool looking at green and black algae growi",
+   "parent_imp": 47506,
+   "delay_h": 4.5,
+   "score": 736
   },
   {
    "id": "2113836798715859052",
@@ -140,7 +160,7 @@
    "parent_author": "kwharrison13",
    "parent_url": "https://x.com/kwharrison13/status/2113712058281639970",
    "parent_text": "Not everyone was born to be an athlete.\n\nMy 7-year old son, in the middle of his soccer game, walking up to the ref:\n\n“Hey, how much longer do we have to do this?”",
-   "parent_imp": 131618,
+   "parent_imp": 131649,
    "delay_h": 8.3,
    "score": 658
   },
@@ -151,7 +171,7 @@
    "kind": "replied_to",
    "at": "Oct 25 11:29 PM CT",
    "date": "2026-10-25",
-   "imp": 496,
+   "imp": 498,
    "likes": 5,
    "replies": 1,
    "reposts": 0,
@@ -160,29 +180,9 @@
    "parent_author": "DanielPriestley",
    "parent_url": "https://x.com/DanielPriestley/status/2114403787838234643",
    "parent_text": "When I lived in Brisbane I went to a men’s barber shop that made a lot of money. \n\nIn the window they had a cool cafe racer motorbike. It was for sale. \n\nOn the walls he had framed movie posters. Real",
-   "parent_imp": 26378,
+   "parent_imp": 26447,
    "delay_h": 11.4,
-   "score": 626
-  },
-  {
-   "id": "2114845673220960668",
-   "url": "https://x.com/onhand_terry/status/2114845673220960668",
-   "text": "“You don’t love the answer” 10/10",
-   "kind": "replied_to",
-   "at": "Oct 26 05:24 PM CT",
-   "date": "2026-10-26",
-   "imp": 448,
-   "likes": 7,
-   "replies": 0,
-   "reposts": 0,
-   "bm": 0,
-   "words": 6,
-   "parent_author": "Slackwatercap",
-   "parent_url": "https://x.com/Slackwatercap/status/2114777031778992275",
-   "parent_text": "It’s 9am on a Tuesday, ten weeks after closing on a small pool maintenance and repair company.\n\nYou’re standing at the edge of a large commercial customer’s pool looking at green and black algae growi",
-   "parent_imp": 39390,
-   "delay_h": 4.5,
-   "score": 588
+   "score": 628
   },
   {
    "id": "2114005478292468103",
@@ -200,7 +200,7 @@
    "parent_author": "JSeyff",
    "parent_url": "https://x.com/JSeyff/status/2113805579437183479",
    "parent_text": "Arkansas taxes do not mess around. Holy shit https://t.co/zJ8l9CpCTt",
-   "parent_imp": 1312939,
+   "parent_imp": 1313390,
    "delay_h": 13.2,
    "score": 301
   },
@@ -220,7 +220,7 @@
    "parent_author": "TheDealMakerGuy",
    "parent_url": "https://x.com/TheDealMakerGuy/status/2113666472685765059",
    "parent_text": "late to the party on @levelsio's warsaw post from last week, but as a polish guy who did the uk route and came back, the flip in the narrative is pretty wild to watch...\n\ni moved from poland to the uk",
-   "parent_imp": 43218,
+   "parent_imp": 43264,
    "delay_h": 9.5,
    "score": 197
   },
@@ -231,13 +231,13 @@
    "kind": "post",
    "at": "Oct 23 02:42 PM CT",
    "date": "2026-10-23",
-   "imp": 67,
+   "imp": 70,
    "likes": 2,
    "replies": 1,
    "reposts": 0,
    "bm": 0,
    "words": 44,
-   "score": 137
+   "score": 140
   },
   {
    "id": "2113618494574964791",
@@ -255,7 +255,7 @@
    "parent_author": "ChrisRamsey60",
    "parent_url": "https://x.com/ChrisRamsey60/status/2113595155756265745",
    "parent_text": "You need to get multiple loan quotes on every deal.\n\nI just got five quotes for the same deal:\n\n6.5%\n6.975%\n7%\n7.1%\n7.2%\n\nSame borrower. Same property. Five different rates.\n\nA few extra phone calls c",
-   "parent_imp": 7612,
+   "parent_imp": 7613,
    "delay_h": 1.5,
    "suggested": "70 basis points from five phone calls. Most owners spend more time picking a truck wrap than shopping their debt.",
    "sim": 19,
@@ -277,7 +277,7 @@
    "parent_author": "hoytcrouch",
    "parent_url": "https://x.com/hoytcrouch/status/2113407833483935925",
    "parent_text": "I almost bought a $350k fence franchise.\n\nStarted from scratch with $5k instead. Cash flowed 100% of growth.\n\n3 years later, we’ll beat 99% of their franchisees in revenue and profit. \n\nBest $345k I n",
-   "parent_imp": 26855,
+   "parent_imp": 26875,
    "delay_h": 20.1,
    "score": 118
   },
@@ -297,51 +297,9 @@
    "parent_author": "noahiglerSEO",
    "parent_url": "https://x.com/noahiglerSEO/status/2113956431258873988",
    "parent_text": "Servpro has 114 open Google Business Profiles across the New York City metro area.\n\nFrom Sept 18 to Oct 18, those 114 profiles got 71 new Google reviews combined, and 75 of them got none.\n\nHere's what",
-   "parent_imp": 2128,
+   "parent_imp": 2137,
    "delay_h": 2.7,
    "score": 96
-  },
-  {
-   "id": "2114851098188271979",
-   "url": "https://x.com/onhand_terry/status/2114851098188271979",
-   "text": "As you finish the Windsor knot in your M&amp;S tie, about to catch the 8AM Richmond Line to central London, the phone rings. \n\nIt’s Conrad, the militarily experienced, South African site manager telling you the groundworks team have struck a cable with the digger, which has set the https://t.co/4iqAxqGIDC",
-   "kind": "quoted",
-   "at": "Oct 26 05:46 PM CT",
-   "date": "2026-10-26",
-   "imp": 74,
-   "likes": 1,
-   "replies": 0,
-   "reposts": 0,
-   "bm": 0,
-   "words": 49,
-   "parent_author": "guessworkinvest",
-   "parent_url": "https://x.com/guessworkinvest/status/2114726538767929534",
-   "parent_text": "“Now boarding, Group D,” the PA announces, and you stand up to join the line for the 7am flight. You’re headed to Atlanta for your day job — you’ll be defending some anemic numbers to the executive te",
-   "parent_imp": 193949,
-   "delay_h": 8.2,
-   "score": 94
-  },
-  {
-   "id": "2114797707181113532",
-   "url": "https://x.com/onhand_terry/status/2114797707181113532",
-   "text": "Hands-off biz you can run alongside your W-2 🤪🫡 https://t.co/h3jPmHZMV4",
-   "kind": "quoted",
-   "at": "Oct 26 02:13 PM CT",
-   "date": "2026-10-26",
-   "imp": 50,
-   "likes": 0,
-   "replies": 1,
-   "reposts": 0,
-   "bm": 0,
-   "words": 10,
-   "parent_author": "zachglabman",
-   "parent_url": "https://x.com/zachglabman/status/2114761341223530532",
-   "parent_text": "there’s a 59-year-old, family-owned Michigan machine shop that’s about to go under. 156 jobs, 152k sq ft of turning, broaching, heat treat, grinding and electroplating capacity\n\nthey lost a big contra",
-   "parent_imp": 86582,
-   "delay_h": 2.4,
-   "suggested": "PE will pass. An operator with AI and a weekend might not.",
-   "sim": 29,
-   "score": 80
   },
   {
    "id": "2114884864520712530",
@@ -350,7 +308,7 @@
    "kind": "replied_to",
    "at": "Oct 26 08:00 PM CT",
    "date": "2026-10-26",
-   "imp": 58,
+   "imp": 68,
    "likes": 1,
    "replies": 0,
    "reposts": 0,
@@ -359,9 +317,31 @@
    "parent_author": "auren",
    "parent_url": "https://x.com/auren/status/2114877706223669386",
    "parent_text": "everyone talking about jevons paradox of computing and AI. \nbut jevons paradox also applies to work.  the more you can get done, the MORE you want to work.   because accomplishing things is so satisfy",
-   "parent_imp": 2705,
+   "parent_imp": 3065,
    "delay_h": 0.5,
-   "score": 78
+   "score": 88
+  },
+  {
+   "id": "2114797707181113532",
+   "url": "https://x.com/onhand_terry/status/2114797707181113532",
+   "text": "Hands-off biz you can run alongside your W-2 🤪🫡 https://t.co/h3jPmHZMV4",
+   "kind": "quoted",
+   "at": "Oct 26 02:13 PM CT",
+   "date": "2026-10-26",
+   "imp": 52,
+   "likes": 0,
+   "replies": 1,
+   "reposts": 0,
+   "bm": 0,
+   "words": 10,
+   "parent_author": "zachglabman",
+   "parent_url": "https://x.com/zachglabman/status/2114761341223530532",
+   "parent_text": "there’s a 59-year-old, family-owned Michigan machine shop that’s about to go under. 156 jobs, 152k sq ft of turning, broaching, heat treat, grinding and electroplating capacity\n\nthey lost a big contra",
+   "parent_imp": 93027,
+   "delay_h": 2.4,
+   "suggested": "PE will pass. An operator with AI and a weekend might not.",
+   "sim": 29,
+   "score": 82
   },
   {
    "id": "2113832989146964124",
@@ -370,7 +350,7 @@
    "kind": "replied_to",
    "at": "Oct 23 10:20 PM CT",
    "date": "2026-10-23",
-   "imp": 38,
+   "imp": 39,
    "likes": 0,
    "replies": 1,
    "reposts": 0,
@@ -379,9 +359,9 @@
    "parent_author": "OisinO",
    "parent_url": "https://x.com/OisinO/status/2113747716069261360",
    "parent_text": "Constantly reminded goals are for people that want to win once. Process and standards are for people that want to win long term. Got to focus on the work and the rest will happen",
-   "parent_imp": 898,
+   "parent_imp": 904,
    "delay_h": 5.6,
-   "score": 68
+   "score": 69
   },
   {
    "id": "2113377694498914413",
@@ -399,6 +379,26 @@
    "score": 66
   },
   {
+   "id": "2113285986251927619",
+   "url": "https://x.com/onhand_terry/status/2113285986251927619",
+   "text": "Solid advice - it’s a full time job keeping up with constant change and they are all converging anyway.",
+   "kind": "replied_to",
+   "at": "Oct 22 10:06 AM CT",
+   "date": "2026-10-22",
+   "imp": 39,
+   "likes": 0,
+   "replies": 0,
+   "reposts": 0,
+   "bm": 0,
+   "words": 19,
+   "parent_author": "lkr",
+   "parent_url": "https://x.com/lkr/status/2113240067804197204",
+   "parent_text": "my advice is DONT KEEP UP WITH AI\n\nif its fun for you, great\n\nbut if you're trying to get work done just pick codex or claudecode and stick with it, doesn't matter which\n\nkeep experimenting with all t",
+   "parent_imp": 3964,
+   "delay_h": 3.0,
+   "score": 39
+  },
+  {
    "id": "2114535580625215741",
    "url": "https://x.com/onhand_terry/status/2114535580625215741",
    "text": "There are levels to the striping game",
@@ -414,7 +414,7 @@
    "parent_author": "plasticboss",
    "parent_url": "https://x.com/plasticboss/status/2114502173539148054",
    "parent_text": "And you think my parking lot striping side gig is difficult? https://t.co/OQldUaeG99",
-   "parent_imp": 2356,
+   "parent_imp": 2362,
    "delay_h": 2.2,
    "score": 36
   },
@@ -454,7 +454,7 @@
    "parent_author": "HVACSEO",
    "parent_url": "https://x.com/HVACSEO/status/2114514337947607160",
    "parent_text": "@RealPlantBrah Next, you’re going to tell me those rakes aren’t standing up on their own",
-   "parent_imp": 137,
+   "parent_imp": 138,
    "delay_h": 2.1,
    "score": 8
   },
@@ -474,7 +474,7 @@
    "parent_author": "andywalkerhq",
    "parent_url": "https://x.com/andywalkerhq/status/2113298143181680973",
    "parent_text": "If you hate selling, great.\n \nBuild an offer so clear and a guarantee so strong that the homeowner talks himself into it, and you'll never have to be the pushy guy to win the job.",
-   "parent_imp": 830,
+   "parent_imp": 832,
    "delay_h": 21.3,
    "suggested": "Best close I heard this week wasn't mine. A realtor said \"I appreciate the hustle\" and offered to post us in her 177-person vendor group. Clear offer, zero pushing.",
    "sim": 23,
@@ -524,7 +524,8 @@
    "Day totals (current snapshot): Oct 24 had 2 posts, 337 views; Oct 25 had 5 posts in the 7-day fetch, 529 views; Oct 26 had 4 posts, 630 views, 9 likes.",
    "Queue fit: 1 of 10 picks used on Oct 26 (as a quote); 0 of 9 on Oct 25.",
    "Followers 47, up 2 since yesterday's scorecard.",
-   "Oct 27 AM: 1 on-fit investor-list post in the last 3 hours (@sweatystartup); 4 picks, 29 to 87 min old, all from 40k+ accounts."
+   "Oct 27 AM: 1 on-fit investor-list post in the last 3 hours (@sweatystartup); 4 picks, 29 to 87 min old, all from 40k+ accounts.",
+   "Oct 27 midday: no new replies since 8 PM CT Oct 26, so none of this morning's 4 picks used yet; 5 midday picks, 12 to 75 min old, led by @garrytan (YC) and @sweatystartup."
   ]
  }
 }
