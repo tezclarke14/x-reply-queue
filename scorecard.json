@@ -87,9 +87,20 @@
    "used_suggestion": 0,
    "best": "",
    "followers": 46
+  },
+  {
+   "date": "2026-10-30",
+   "replies": 0,
+   "impressions": 0,
+   "likes": 0,
+   "replies_got": 0,
+   "avg_delay_h": null,
+   "used_suggestion": 0,
+   "best": "",
+   "followers": 46
   }
  ],
- "updated": "Oct 29 2026 12:20 PM CT",
+ "updated": "Oct 30 2026 07:19 AM CT",
  "rows": [
   {
    "id": "2113685074663116821",
@@ -107,7 +118,7 @@
    "parent_author": "typesfast",
    "parent_url": "https://x.com/typesfast/status/2113661586493833364",
    "parent_text": "What is the prevailing theory for why Fridays are such a popular work-from-home day?",
-   "parent_imp": 545916,
+   "parent_imp": 546073,
    "delay_h": 1.6,
    "score": 9742
   },
@@ -118,13 +129,18 @@
    "kind": "replied_to",
    "at": "Oct 23 02:24 PM CT",
    "date": "2026-10-23",
-   "imp": 4326,
+   "imp": 4331,
    "likes": 3,
    "replies": 0,
    "reposts": 0,
    "bm": 1,
    "words": 3,
-   "score": 4406
+   "parent_author": "oelayat",
+   "parent_url": "https://x.com/oelayat/status/2113660432225571320",
+   "parent_text": "Just Eat's rollout of AI menu photos is going flawlessly https://t.co/ZMQUM4o7Mf",
+   "parent_imp": 1651893,
+   "delay_h": 3.5,
+   "score": 4411
   },
   {
    "id": "2113813347208691970",
@@ -133,7 +149,7 @@
    "kind": "replied_to",
    "at": "Oct 23 09:02 PM CT",
    "date": "2026-10-23",
-   "imp": 1631,
+   "imp": 1632,
    "likes": 16,
    "replies": 0,
    "reposts": 0,
@@ -142,9 +158,9 @@
    "parent_author": "kyleegriswold",
    "parent_url": "https://x.com/kyleegriswold/status/2113722058727465374",
    "parent_text": "Imagine thinking DINK-dom is better than this https://t.co/Xxsg1koxgn",
-   "parent_imp": 166536,
+   "parent_imp": 166551,
    "delay_h": 6.0,
-   "score": 1971
+   "score": 1972
   },
   {
    "id": "2114845673220960668",
@@ -153,7 +169,7 @@
    "kind": "replied_to",
    "at": "Oct 26 05:24 PM CT",
    "date": "2026-10-26",
-   "imp": 649,
+   "imp": 651,
    "likes": 7,
    "replies": 0,
    "reposts": 0,
@@ -162,9 +178,9 @@
    "parent_author": "Slackwatercap",
    "parent_url": "https://x.com/Slackwatercap/status/2114777031778992275",
    "parent_text": "It’s 9am on a Tuesday, ten weeks after closing on a small pool maintenance and repair company.\n\nYou’re standing at the edge of a large commercial customer’s pool looking at green and black algae growi",
-   "parent_imp": 51974,
+   "parent_imp": 52069,
    "delay_h": 4.5,
-   "score": 789
+   "score": 791
   },
   {
    "id": "2113836798715859052",
@@ -182,7 +198,7 @@
    "parent_author": "kwharrison13",
    "parent_url": "https://x.com/kwharrison13/status/2113712058281639970",
    "parent_text": "Not everyone was born to be an athlete.\n\nMy 7-year old son, in the middle of his soccer game, walking up to the ref:\n\n“Hey, how much longer do we have to do this?”",
-   "parent_imp": 131835,
+   "parent_imp": 131885,
    "delay_h": 8.3,
    "score": 658
   },
@@ -193,7 +209,7 @@
    "kind": "replied_to",
    "at": "Oct 25 11:29 PM CT",
    "date": "2026-10-25",
-   "imp": 499,
+   "imp": 501,
    "likes": 5,
    "replies": 1,
    "reposts": 0,
@@ -202,9 +218,9 @@
    "parent_author": "DanielPriestley",
    "parent_url": "https://x.com/DanielPriestley/status/2114403787838234643",
    "parent_text": "When I lived in Brisbane I went to a men’s barber shop that made a lot of money. \n\nIn the window they had a cool cafe racer motorbike. It was for sale. \n\nOn the walls he had framed movie posters. Real",
-   "parent_imp": 26591,
+   "parent_imp": 26622,
    "delay_h": 11.4,
-   "score": 629
+   "score": 631
   },
   {
    "id": "2114005478292468103",
@@ -222,7 +238,7 @@
    "parent_author": "JSeyff",
    "parent_url": "https://x.com/JSeyff/status/2113805579437183479",
    "parent_text": "Arkansas taxes do not mess around. Holy shit https://t.co/zJ8l9CpCTt",
-   "parent_imp": 1316065,
+   "parent_imp": 1316713,
    "delay_h": 13.2,
    "score": 301
   },
@@ -242,7 +258,7 @@
    "parent_author": "TheDealMakerGuy",
    "parent_url": "https://x.com/TheDealMakerGuy/status/2113666472685765059",
    "parent_text": "late to the party on @levelsio's warsaw post from last week, but as a polish guy who did the uk route and came back, the flip in the narrative is pretty wild to watch...\n\ni moved from poland to the uk",
-   "parent_imp": 43523,
+   "parent_imp": 43620,
    "delay_h": 9.5,
    "score": 198
   },
@@ -253,13 +269,13 @@
    "kind": "post",
    "at": "Oct 23 02:42 PM CT",
    "date": "2026-10-23",
-   "imp": 82,
+   "imp": 83,
    "likes": 2,
    "replies": 1,
    "reposts": 0,
    "bm": 0,
    "words": 44,
-   "score": 152
+   "score": 153
   },
   {
    "id": "2113618494574964791",
@@ -277,7 +293,7 @@
    "parent_author": "ChrisRamsey60",
    "parent_url": "https://x.com/ChrisRamsey60/status/2113595155756265745",
    "parent_text": "You need to get multiple loan quotes on every deal.\n\nI just got five quotes for the same deal:\n\n6.5%\n6.975%\n7%\n7.1%\n7.2%\n\nSame borrower. Same property. Five different rates.\n\nA few extra phone calls c",
-   "parent_imp": 7640,
+   "parent_imp": 7651,
    "delay_h": 1.5,
    "suggested": "70 basis points from five phone calls. Most owners spend more time picking a truck wrap than shopping their debt.",
    "sim": 19,
@@ -299,7 +315,7 @@
    "parent_author": "hoytcrouch",
    "parent_url": "https://x.com/hoytcrouch/status/2113407833483935925",
    "parent_text": "I almost bought a $350k fence franchise.\n\nStarted from scratch with $5k instead. Cash flowed 100% of growth.\n\n3 years later, we’ll beat 99% of their franchisees in revenue and profit. \n\nBest $345k I n",
-   "parent_imp": 26963,
+   "parent_imp": 26999,
    "delay_h": 20.1,
    "score": 118
   },
@@ -319,7 +335,7 @@
    "parent_author": "noahiglerSEO",
    "parent_url": "https://x.com/noahiglerSEO/status/2113956431258873988",
    "parent_text": "Servpro has 114 open Google Business Profiles across the New York City metro area.\n\nFrom Sept 18 to Oct 18, those 114 profiles got 71 new Google reviews combined, and 75 of them got none.\n\nHere's what",
-   "parent_imp": 2174,
+   "parent_imp": 2179,
    "delay_h": 2.7,
    "score": 97
   },
@@ -339,7 +355,7 @@
    "parent_author": "zachglabman",
    "parent_url": "https://x.com/zachglabman/status/2114761341223530532",
    "parent_text": "there’s a 59-year-old, family-owned Michigan machine shop that’s about to go under. 156 jobs, 152k sq ft of turning, broaching, heat treat, grinding and electroplating capacity\n\nthey lost a big contra",
-   "parent_imp": 139804,
+   "parent_imp": 140039,
    "delay_h": 2.4,
    "suggested": "PE will pass. An operator with AI and a weekend might not.",
    "sim": 29,
@@ -361,24 +377,9 @@
    "parent_author": "auren",
    "parent_url": "https://x.com/auren/status/2114877706223669386",
    "parent_text": "everyone talking about jevons paradox of computing and AI. \nbut jevons paradox also applies to work.  the more you can get done, the MORE you want to work.   because accomplishing things is so satisfy",
-   "parent_imp": 3504,
+   "parent_imp": 3524,
    "delay_h": 0.5,
    "score": 93
-  },
-  {
-   "id": "2113377694498914413",
-   "url": "https://x.com/onhand_terry/status/2113377694498914413",
-   "text": "@bot just got us $218 back and saved me some minor hassle by cancelling @useStable and requesting a refund for four months where we were subscribed, but the company was no longer active. \n\nKudos to Stable for being straightforward and easy to deal with, I'll use you again. https://t.co/N0NyopS8Ch",
-   "kind": "post",
-   "at": "Oct 22 04:11 PM CT",
-   "date": "2026-10-22",
-   "imp": 31,
-   "likes": 2,
-   "replies": 0,
-   "reposts": 0,
-   "bm": 0,
-   "words": 49,
-   "score": 71
   },
   {
    "id": "2113832989146964124",
@@ -396,7 +397,7 @@
    "parent_author": "OisinO",
    "parent_url": "https://x.com/OisinO/status/2113747716069261360",
    "parent_text": "Constantly reminded goals are for people that want to win once. Process and standards are for people that want to win long term. Got to focus on the work and the rest will happen",
-   "parent_imp": 915,
+   "parent_imp": 919,
    "delay_h": 5.6,
    "score": 70
   },
@@ -416,7 +417,7 @@
    "parent_author": "Toomey1313",
    "parent_url": "https://x.com/Toomey1313/status/2115133933016748471",
    "parent_text": "Your Life Is Broken Because You’re Still the System.\n\nIf you’re anything like me, you already tried fixing your life first.\nSleep. Fitness. Relationships. Morning routines.\nThen the business would get",
-   "parent_imp": 179,
+   "parent_imp": 185,
    "delay_h": 0.5,
    "score": 62
   },
@@ -436,7 +437,7 @@
    "parent_author": "plasticboss",
    "parent_url": "https://x.com/plasticboss/status/2114502173539148054",
    "parent_text": "And you think my parking lot striping side gig is difficult? https://t.co/OQldUaeG99",
-   "parent_imp": 2433,
+   "parent_imp": 2453,
    "delay_h": 2.2,
    "score": 39
   },
@@ -462,7 +463,7 @@
    "kind": "replied_to",
    "at": "Oct 23 02:23 PM CT",
    "date": "2026-10-23",
-   "imp": 18,
+   "imp": 19,
    "likes": 0,
    "replies": 0,
    "reposts": 0,
@@ -471,9 +472,29 @@
    "parent_author": "jamesonhaslam",
    "parent_url": "https://x.com/jamesonhaslam/status/2113428310541898211",
    "parent_text": "daily job costing updates https://t.co/y7DWpxADp6",
-   "parent_imp": 2958,
+   "parent_imp": 2964,
    "delay_h": 18.9,
-   "score": 18
+   "score": 19
+  },
+  {
+   "id": "2115873906469065107",
+   "url": "https://x.com/onhand_terry/status/2115873906469065107",
+   "text": "How would you describe those who comply with the territorial overstep?",
+   "kind": "replied_to",
+   "at": "Oct 29 01:30 PM CT",
+   "date": "2026-10-29",
+   "imp": 10,
+   "likes": 0,
+   "replies": 0,
+   "reposts": 0,
+   "bm": 0,
+   "words": 11,
+   "parent_author": "prestonjbyrne",
+   "parent_url": "https://x.com/prestonjbyrne/status/2115835028739682549",
+   "parent_text": "As it happens, as one who knows a thing or two in this domain, I regard Ofcom as *incredibly* effective at its job - it sends orders into America and 98% of its orders are complied with, immediately u",
+   "parent_imp": 830,
+   "delay_h": 2.6,
+   "score": 10
   },
   {
    "id": "2114545654462919044",
@@ -511,7 +532,7 @@
    "parent_author": "andywalkerhq",
    "parent_url": "https://x.com/andywalkerhq/status/2113298143181680973",
    "parent_text": "If you hate selling, great.\n \nBuild an offer so clear and a guarantee so strong that the homeowner talks himself into it, and you'll never have to be the pushy guy to win the job.",
-   "parent_imp": 841,
+   "parent_imp": 844,
    "delay_h": 21.3,
    "suggested": "Best close I heard this week wasn't mine. A realtor said \"I appreciate the hustle\" and offered to post us in her 177-person vendor group. Clear offer, zero pushing.",
    "sim": 23,
@@ -524,7 +545,7 @@
    "kind": "replied_to",
    "at": "Oct 28 10:26 PM CT",
    "date": "2026-10-28",
-   "imp": 1,
+   "imp": 2,
    "likes": 0,
    "replies": 0,
    "reposts": 0,
@@ -533,24 +554,24 @@
    "parent_author": "elonmusk",
    "parent_url": "https://x.com/elonmusk/status/2115447957843821013",
    "parent_text": "At Tesla, we even care about the chipmunks https://t.co/A6gHMZWV3T",
-   "parent_imp": 3206482,
+   "parent_imp": 3362746,
    "delay_h": 13.1,
-   "score": 1
+   "score": 2
   }
  ],
  "notes": {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "followers": 46,
-  "summary": "No new posts or replies since this morning's scorecard (latest is still the @elonmusk reply at 10:26 PM CT Oct 28). None of the 4 Oct 29 AM picks used so far. Followers: 46 (flat).",
+  "summary": "One new reply since yesterday's scorecard: @prestonjbyrne at 1:30 PM CT Oct 29 (10 views, 0 likes), found yourself rather than from the queue. None of the 4 Oct 29 PM picks used. Followers: 46 (flat).",
   "lessons": [
-   "The Peanut reply landed on a 3M-view post but has 1 view: on mega-accounts, late replies get buried, so timing matters more than parent size.",
-   "Your best this week is still the five-word @Slackwatercap reply (now 649 views, 7 likes) on a 52k-view post you found yourself.",
-   "0 of 8 picks used on Oct 28, so this morning's list is 4 and mixes two big accounts (@Austen, @agazdecki) with on-lane posts from @guilleflorvs and @noahiglerSEO."
+   "Your off-queue picks keep beating the queue: the five-word @Slackwatercap reply is still your best this week (651 views, 7 likes).",
+   "0 of 4 Oct 29 PM picks used, so this morning leans on posts with a direct trades or AI-services hook (AI rollups, a Fortune piece on Gen Z founders buying a plumbing shop).",
+   "Short dry one-liners (Slackwatercap, DanielPriestley at 501 views, kyleegriswold at 1,632 views) keep outperforming longer serious replies like the @Toomey1313 one (12 views)."
   ],
   "trends": [
-   "Queue fit: 0 of 8 picks used on Oct 28; 0 of 9 on Oct 27; 1 of 10 on Oct 26 (as a quote).",
-   "Followers 46, flat since yesterday's scorecard.",
-   "Oct 29 PM: 4 picks, about 5 to 75 minutes old at build, led by @gokulr (investor list) on Phonic's speech model and @sweatystartup on owners becoming the bottleneck."
+   "Queue fit: 0 of 4 Oct 29 PM picks used; 0 of 4 Oct 29 AM; 0 of 8 Oct 28.",
+   "Followers 46, flat for several days.",
+   "Oct 30 AM: 5 picks, about 15 to 135 minutes old at build, led by @fredsoda on AI rollups having no exit yet and @OwenGregorian sharing Fortune on Gen Z AI founders inside a plumbing business."
   ]
  }
 }
