@@ -167,17 +167,17 @@
   },
   {
    "date": "2026-11-07",
-   "replies": 1,
-   "impressions": 295,
-   "likes": 1,
+   "replies": 2,
+   "impressions": 535,
+   "likes": 3,
    "replies_got": 0,
-   "avg_delay_h": 1.7,
+   "avg_delay_h": 1.1,
    "used_suggestion": 0,
    "best": "https://x.com/onhand_terry/status/2118986296215400738",
    "followers": 50
   }
  ],
- "updated": "Nov 07 2026 07:28 AM CT",
+ "updated": "Nov 07 2026 12:18 PM CT",
  "rows": [
   {
    "id": "2117779754208395464",
@@ -195,9 +195,29 @@
    "parent_author": "McCarthyist2",
    "parent_url": "https://x.com/McCarthyist2/status/2117536040588308737",
    "parent_text": "“Нumаn ​rіghtѕ” ​grоuрѕ ​hаvе ​lіtеrаllу ​bееn ​trуіng ​tо ​tеасh ​thіѕ ​tо ​Аfrісаnѕ ​fоr ​dесаdеѕ ​аnd ​thеу ​ѕtіll ​hаvеn’t ​fіgurеd ​іt ​оut https://t.co/82X2fCZw5A",
-   "parent_imp": 563146,
+   "parent_imp": 563211,
    "delay_h": 16.1,
    "score": 754
+  },
+  {
+   "id": "2118719266623012909",
+   "url": "https://x.com/onhand_terry/status/2118719266623012909",
+   "text": "I worked at a Rollins company in San Francisco briefly and was surprised they don't push the techs to ask for reviews much. Six per location monthly is low. There was a 3-4 year old competitor over the water in Oakland that had risen up very quickly, and has 50x more reviews than",
+   "kind": "replied_to",
+   "at": "Nov 06 08:56 AM CT",
+   "date": "2026-11-06",
+   "imp": 594,
+   "likes": 4,
+   "replies": 1,
+   "reposts": 0,
+   "bm": 0,
+   "words": 53,
+   "parent_author": "noahiglerSEO",
+   "parent_url": "https://x.com/noahiglerSEO/status/2118679820234023310",
+   "parent_text": "Orkin's parent company, Rollins, told investors in September that leads had been falling by double digits since May.\n\nIts CEO's best guess is that at least half of that drop comes from the shift to AI",
+   "parent_imp": 34228,
+   "delay_h": 2.6,
+   "score": 704
   },
   {
    "id": "2117780078587465920",
@@ -215,49 +235,9 @@
    "parent_author": "LouisElton96",
    "parent_url": "https://x.com/LouisElton96/status/2117678934397730928",
    "parent_text": "The room in Sheffield where stainless steel was invented. \n\nNow they manufacture burger smashers for an American smash burger smasher brand. https://t.co/MS9Y9wgiTN",
-   "parent_imp": 28842,
+   "parent_imp": 28845,
    "delay_h": 6.7,
    "score": 694
-  },
-  {
-   "id": "2118719266623012909",
-   "url": "https://x.com/onhand_terry/status/2118719266623012909",
-   "text": "I worked at a Rollins company in San Francisco briefly and was surprised they don't push the techs to ask for reviews much. Six per location monthly is low. There was a 3-4 year old competitor over the water in Oakland that had risen up very quickly, and has 50x more reviews than",
-   "kind": "replied_to",
-   "at": "Nov 06 08:56 AM CT",
-   "date": "2026-11-06",
-   "imp": 537,
-   "likes": 4,
-   "replies": 1,
-   "reposts": 0,
-   "bm": 0,
-   "words": 53,
-   "parent_author": "noahiglerSEO",
-   "parent_url": "https://x.com/noahiglerSEO/status/2118679820234023310",
-   "parent_text": "Orkin's parent company, Rollins, told investors in September that leads had been falling by double digits since May.\n\nIts CEO's best guess is that at least half of that drop comes from the shift to AI",
-   "parent_imp": 32216,
-   "delay_h": 2.6,
-   "score": 647
-  },
-  {
-   "id": "2118766712627638581",
-   "url": "https://x.com/onhand_terry/status/2118766712627638581",
-   "text": "How are you handling the assembly, is it all in house?",
-   "kind": "replied_to",
-   "at": "Nov 06 12:05 PM CT",
-   "date": "2026-11-06",
-   "imp": 235,
-   "likes": 5,
-   "replies": 1,
-   "reposts": 0,
-   "bm": 0,
-   "words": 11,
-   "parent_author": "forestmanjohn",
-   "parent_url": "https://x.com/forestmanjohn/status/2118764065665233274",
-   "parent_text": "Hardware cycles are brutal. When something goes wrong it takes 2-3 months minimum to fix. The progress is slow but each day I’m closer to launch. https://t.co/si6rPslOHJ",
-   "parent_imp": 5767,
-   "delay_h": 0.2,
-   "score": 365
   },
   {
    "id": "2118986296215400738",
@@ -266,8 +246,8 @@
    "kind": "replied_to",
    "at": "Nov 07 02:37 AM CT",
    "date": "2026-11-07",
-   "imp": 295,
-   "likes": 1,
+   "imp": 517,
+   "likes": 2,
    "replies": 0,
    "reposts": 0,
    "bm": 0,
@@ -275,9 +255,29 @@
    "parent_author": "JesseTinsley",
    "parent_url": "https://x.com/JesseTinsley/status/2118960795430338674",
    "parent_text": "Easiest way to becoming a multi millionaire are service businesses.\n\nI started a Recruiting services business after dropping out of college. \n\nMade a majority of my wealth this way then spun that mome",
-   "parent_imp": 6095,
+   "parent_imp": 11969,
    "delay_h": 1.7,
-   "score": 315
+   "score": 557
+  },
+  {
+   "id": "2118766712627638581",
+   "url": "https://x.com/onhand_terry/status/2118766712627638581",
+   "text": "How are you handling the assembly, is it all in house?",
+   "kind": "replied_to",
+   "at": "Nov 06 12:05 PM CT",
+   "date": "2026-11-06",
+   "imp": 257,
+   "likes": 5,
+   "replies": 1,
+   "reposts": 0,
+   "bm": 0,
+   "words": 11,
+   "parent_author": "forestmanjohn",
+   "parent_url": "https://x.com/forestmanjohn/status/2118764065665233274",
+   "parent_text": "Hardware cycles are brutal. When something goes wrong it takes 2-3 months minimum to fix. The progress is slow but each day I’m closer to launch. https://t.co/si6rPslOHJ",
+   "parent_imp": 6027,
+   "delay_h": 0.2,
+   "score": 387
   },
   {
    "id": "2117848668208546024",
@@ -286,13 +286,13 @@
    "kind": "post",
    "at": "Nov 03 11:17 PM CT",
    "date": "2026-11-03",
-   "imp": 175,
+   "imp": 179,
    "likes": 4,
    "replies": 0,
    "reposts": 0,
    "bm": 0,
    "words": 15,
-   "score": 255
+   "score": 259
   },
   {
    "id": "2117395468938588615",
@@ -310,7 +310,7 @@
    "parent_author": "orenmeetsworld",
    "parent_url": "https://x.com/orenmeetsworld/status/2117385269234299276",
    "parent_text": "Greg graduated from Cut30 a long time ago, has come back a few times, and just hit 100k for his brand account \n\nhe takes the time to educate everyone else about what he did that won, references what g",
-   "parent_imp": 7012,
+   "parent_imp": 7017,
    "delay_h": 0.7,
    "score": 151
   },
@@ -365,7 +365,7 @@
    "parent_author": "causticbob",
    "parent_url": "https://x.com/causticbob/status/2117428306437869947",
    "parent_text": "The guy I pay to pick up poop in my back yard just found out I don't have pets.",
-   "parent_imp": 585247,
+   "parent_imp": 585319,
    "delay_h": 23.1,
    "score": 80
   },
@@ -376,7 +376,7 @@
    "kind": "replied_to",
    "at": "Nov 06 02:26 PM CT",
    "date": "2026-11-06",
-   "imp": 47,
+   "imp": 54,
    "likes": 1,
    "replies": 0,
    "reposts": 0,
@@ -385,9 +385,9 @@
    "parent_author": "forestmanjohn",
    "parent_url": "https://x.com/forestmanjohn/status/2118801453326152012",
    "parent_text": "@onhand_terry long term goal is 100% in house, short term priority is a product on the market so assembly is most efficiently outsourced",
-   "parent_imp": 124,
+   "parent_imp": 145,
    "delay_h": 0.1,
-   "score": 67
+   "score": 74
   },
   {
    "id": "2117768974410883432",
@@ -396,7 +396,7 @@
    "kind": "replied_to",
    "at": "Nov 03 06:00 PM CT",
    "date": "2026-11-03",
-   "imp": 33,
+   "imp": 34,
    "likes": 1,
    "replies": 0,
    "reposts": 0,
@@ -405,9 +405,9 @@
    "parent_author": "dannypeavey",
    "parent_url": "https://x.com/dannypeavey/status/2117703119953883580",
    "parent_text": "I think the trades are heading into their own clash-of-the-titans era.\n\nRockefeller had oil. Carnegie had steel. Morgan helped consolidate entire industries.\n\nThey built empires, competed for control,",
-   "parent_imp": 1650,
+   "parent_imp": 1652,
    "delay_h": 4.4,
-   "score": 53
+   "score": 54
   },
   {
    "id": "2118928183495938431",
@@ -416,7 +416,7 @@
    "kind": "replied_to",
    "at": "Nov 06 10:47 PM CT",
    "date": "2026-11-06",
-   "imp": 35,
+   "imp": 45,
    "likes": 0,
    "replies": 0,
    "reposts": 0,
@@ -425,9 +425,29 @@
    "parent_author": "pestctrlguy",
    "parent_url": "https://x.com/pestctrlguy/status/2118876940560183361",
    "parent_text": "This is so interesting. The entire premise of the tweet is “how to beat Orkin.”\n\nIt’s really not all that difficult at the local level. That’s not a shot at Orkin specifically, just any of the nationa",
-   "parent_imp": 5359,
+   "parent_imp": 6134,
    "delay_h": 3.4,
-   "score": 35
+   "score": 45
+  },
+  {
+   "id": "2119072976381304974",
+   "url": "https://x.com/onhand_terry/status/2119072976381304974",
+   "text": "Awesome. Would love to hear how you won the contract to supply Elon if you are able to!",
+   "kind": "replied_to",
+   "at": "Nov 07 08:22 AM CT",
+   "date": "2026-11-07",
+   "imp": 18,
+   "likes": 1,
+   "replies": 0,
+   "reposts": 0,
+   "bm": 0,
+   "words": 18,
+   "parent_author": "JesseTinsley",
+   "parent_url": "https://x.com/JesseTinsley/status/2119064835078201855",
+   "parent_text": "@onhand_terry Haha started in recruiting much broader. https://t.co/kjXD6SCLPP is the US Bending Spoons 🇺🇸❤️",
+   "parent_imp": 209,
+   "delay_h": 0.5,
+   "score": 38
   },
   {
    "id": "2117776184297799956",
@@ -445,7 +465,7 @@
    "parent_author": "TylerDurden",
    "parent_url": "https://x.com/TylerDurden/status/2117527630950129994",
    "parent_text": "If you’re a man and you’re struggling right now - just remember nobody cares and it gets worse.\n\nCheers.",
-   "parent_imp": 852927,
+   "parent_imp": 853211,
    "delay_h": 16.5,
    "score": 32
   },
@@ -465,7 +485,7 @@
    "parent_author": "TannerBuilds",
    "parent_url": "https://x.com/TannerBuilds/status/2118009176454783450",
    "parent_text": "I need to figure out a better way to charge for custom home consultations. I spend so much time on compiling accurate estimates for people’s dream homes. I want to charge $1000 for it and if you use u",
-   "parent_imp": 11399,
+   "parent_imp": 11406,
    "delay_h": 11.8,
    "score": 28
   },
@@ -485,7 +505,7 @@
    "parent_author": "jujubileen",
    "parent_url": "https://x.com/jujubileen/status/2117379884997808254",
    "parent_text": "stop scrolling here is a picture of my son smiling https://t.co/rhyeUkRzrp",
-   "parent_imp": 123277,
+   "parent_imp": 123306,
    "delay_h": 31.3,
    "score": 25
   },
@@ -508,10 +528,10 @@
  "notes": {
   "date": "2026-11-07",
   "followers": 50,
-  "summary": "AM Sat: thin Saturday feed. Used Nov 6 AM Noah Orkin/AI-search pick (537 views); skipped all 5 Nov 6 PM queue picks. Also replied to @pestctrlguy on beating nationals (35 views) and @JesseTinsley recruitment joke (295 views); continued @forestmanjohn thread. Fresh AM queue: Noah site-conversion, Gazdecki expense/exit, Champions/Bardi HVAC PE deal.",
+  "summary": "PM Sat: one new reply since AM, off-queue @JesseTinsley follow-up (18 views so far); AM picks (Noah conversion, Gazdecki exit, Champions HVAC PE) unused so far. Earlier Sat: @JesseTinsley 'bendingnspoons of recruitment' joke at 517 views, @pestctrlguy Rollins reply 45. PM queue: Andy Walker roofing Friday check, Josh Wolfe AI-agent liability, Gazdecki marketing meme, Noah referrals.",
   "lessons": [
    "Noah Igler remains the highest-yield queue target — yesterday's AM Noah reply is now at 537 views, third-best in the last 7 days.",
-   "Deadpan one-liners still lead: @McCarthyist2 734 and @LouisElton96 694 views; off-queue @JesseTinsley hit 295 overnight.",
+   "Deadpan one-liners still lead: @McCarthyist2 734, @LouisElton96 694, and the @JesseTinsley 'bendingnspoons of recruitment' joke at 517 views.",
    "Saturday mornings are sparse on target accounts — keep Noah + acquisition/exit angles; PE HVAC deal news is a usable investor hook when founders are quiet."
   ],
   "trends": [
