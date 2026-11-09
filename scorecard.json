@@ -199,7 +199,7 @@
    "followers": 49
   }
  ],
- "updated": "Nov 09 2026 07:18 AM CT",
+ "updated": "Nov 09 2026 12:25 PM CT",
  "rows": [
   {
    "id": "2119627958881034693",
@@ -208,7 +208,7 @@
    "kind": "replied_to",
    "at": "Nov 08 09:07 PM CT",
    "date": "2026-11-08",
-   "imp": 820,
+   "imp": 928,
    "likes": 1,
    "replies": 1,
    "reposts": 0,
@@ -217,9 +217,9 @@
    "parent_author": "Davidjpark96",
    "parent_url": "https://x.com/Davidjpark96/status/2119613878380396757",
    "parent_text": "my parents had to declare bankruptcy when I was a kid, so they had every reason to pressure me towards a more stable career path\n\ninstead, they were so patient with me, even as i failed startup after ",
-   "parent_imp": 25147,
+   "parent_imp": 28279,
    "delay_h": 0.9,
-   "score": 870
+   "score": 978
   },
   {
    "id": "2118986296215400738",
@@ -228,7 +228,7 @@
    "kind": "replied_to",
    "at": "Nov 07 02:37 AM CT",
    "date": "2026-11-07",
-   "imp": 789,
+   "imp": 798,
    "likes": 2,
    "replies": 1,
    "reposts": 0,
@@ -237,9 +237,9 @@
    "parent_author": "JesseTinsley",
    "parent_url": "https://x.com/JesseTinsley/status/2118960795430338674",
    "parent_text": "Easiest way to becoming a multi millionaire are service businesses.\n\nI started a Recruiting services business after dropping out of college. \n\nMade a majority of my wealth this way then spun that mome",
-   "parent_imp": 25598,
+   "parent_imp": 26421,
    "delay_h": 1.7,
-   "score": 859
+   "score": 868
   },
   {
    "id": "2118719266623012909",
@@ -248,7 +248,7 @@
    "kind": "replied_to",
    "at": "Nov 06 08:56 AM CT",
    "date": "2026-11-06",
-   "imp": 673,
+   "imp": 679,
    "likes": 5,
    "replies": 1,
    "reposts": 0,
@@ -257,29 +257,9 @@
    "parent_author": "noahiglerSEO",
    "parent_url": "https://x.com/noahiglerSEO/status/2118679820234023310",
    "parent_text": "Orkin's parent company, Rollins, told investors in September that leads had been falling by double digits since May.\n\nIts CEO's best guess is that at least half of that drop comes from the shift to AI",
-   "parent_imp": 37078,
+   "parent_imp": 37155,
    "delay_h": 2.6,
-   "score": 803
-  },
-  {
-   "id": "2117779754208395464",
-   "url": "https://x.com/onhand_terry/status/2117779754208395464",
-   "text": "Get bro a wrapped truck and 1,000 door hangers and he’s in business",
-   "kind": "replied_to",
-   "at": "Nov 03 06:43 PM CT",
-   "date": "2026-11-03",
-   "imp": 735,
-   "likes": 1,
-   "replies": 0,
-   "reposts": 0,
-   "bm": 0,
-   "words": 13,
-   "parent_author": "McCarthyist2",
-   "parent_url": "https://x.com/McCarthyist2/status/2117536040588308737",
-   "parent_text": "“Нumаn ​rіghtѕ” ​grоuрѕ ​hаvе ​lіtеrаllу ​bееn ​trуіng ​tо ​tеасh ​thіѕ ​tо ​Аfrісаnѕ ​fоr ​dесаdеѕ ​аnd ​thеу ​ѕtіll ​hаvеn’t ​fіgurеd ​іt ​оut https://t.co/82X2fCZw5A",
-   "parent_imp": 563587,
-   "delay_h": 16.1,
-   "score": 755
+   "score": 809
   },
   {
    "id": "2119279694730207458",
@@ -288,7 +268,7 @@
    "kind": "replied_to",
    "at": "Nov 07 10:03 PM CT",
    "date": "2026-11-07",
-   "imp": 621,
+   "imp": 632,
    "likes": 3,
    "replies": 1,
    "reposts": 0,
@@ -297,9 +277,29 @@
    "parent_author": "SMB_Attorney",
    "parent_url": "https://x.com/SMB_Attorney/status/2119234604129550810",
    "parent_text": "Personal injury might actually be America’s best business model. Its biggest moat is lawyers thinking they’re too good for it. https://t.co/uV90tKu1ZT",
-   "parent_imp": 194689,
+   "parent_imp": 197915,
    "delay_h": 3.0,
-   "score": 751
+   "score": 762
+  },
+  {
+   "id": "2117779754208395464",
+   "url": "https://x.com/onhand_terry/status/2117779754208395464",
+   "text": "Get bro a wrapped truck and 1,000 door hangers and he’s in business",
+   "kind": "replied_to",
+   "at": "Nov 03 06:43 PM CT",
+   "date": "2026-11-03",
+   "imp": 736,
+   "likes": 1,
+   "replies": 0,
+   "reposts": 0,
+   "bm": 0,
+   "words": 13,
+   "parent_author": "McCarthyist2",
+   "parent_url": "https://x.com/McCarthyist2/status/2117536040588308737",
+   "parent_text": "“Нumаn ​rіghtѕ” ​grоuрѕ ​hаvе ​lіtеrаllу ​bееn ​trуіng ​tо ​tеасh ​thіѕ ​tо ​Аfrісаnѕ ​fоr ​dесаdеѕ ​аnd ​thеу ​ѕtіll ​hаvеn’t ​fіgurеd ​іt ​оut https://t.co/82X2fCZw5A",
+   "parent_imp": 563645,
+   "delay_h": 16.1,
+   "score": 756
   },
   {
    "id": "2117780078587465920",
@@ -317,7 +317,7 @@
    "parent_author": "LouisElton96",
    "parent_url": "https://x.com/LouisElton96/status/2117678934397730928",
    "parent_text": "The room in Sheffield where stainless steel was invented. \n\nNow they manufacture burger smashers for an American smash burger smasher brand. https://t.co/MS9Y9wgiTN",
-   "parent_imp": 28877,
+   "parent_imp": 28879,
    "delay_h": 6.7,
    "score": 694
   },
@@ -328,18 +328,18 @@
    "kind": "replied_to",
    "at": "Nov 06 12:05 PM CT",
    "date": "2026-11-06",
-   "imp": 279,
+   "imp": 287,
    "likes": 5,
    "replies": 1,
    "reposts": 0,
    "bm": 0,
    "words": 11,
-   "parent_author": "forestmanjohn",
-   "parent_url": "https://x.com/forestmanjohn/status/2118764065665233274",
+   "parent_author": "jcfosterx",
+   "parent_url": "https://x.com/jcfosterx/status/2118764065665233274",
    "parent_text": "Hardware cycles are brutal. When something goes wrong it takes 2-3 months minimum to fix. The progress is slow but each day I’m closer to launch. https://t.co/si6rPslOHJ",
-   "parent_imp": 6373,
+   "parent_imp": 6615,
    "delay_h": 0.2,
-   "score": 409
+   "score": 417
   },
   {
    "id": "2117848668208546024",
@@ -348,13 +348,13 @@
    "kind": "post",
    "at": "Nov 03 11:17 PM CT",
    "date": "2026-11-03",
-   "imp": 190,
+   "imp": 193,
    "likes": 4,
    "replies": 0,
    "reposts": 0,
    "bm": 0,
    "words": 15,
-   "score": 270
+   "score": 273
   },
   {
    "id": "2117395468938588615",
@@ -372,7 +372,7 @@
    "parent_author": "orenmeetsworld",
    "parent_url": "https://x.com/orenmeetsworld/status/2117385269234299276",
    "parent_text": "Greg graduated from Cut30 a long time ago, has come back a few times, and just hit 100k for his brand account \n\nhe takes the time to educate everyone else about what he did that won, references what g",
-   "parent_imp": 7057,
+   "parent_imp": 7063,
    "delay_h": 0.7,
    "score": 154
   },
@@ -383,13 +383,13 @@
    "kind": "post",
    "at": "Nov 03 11:14 PM CT",
    "date": "2026-11-03",
-   "imp": 65,
+   "imp": 66,
    "likes": 2,
    "replies": 0,
    "reposts": 0,
    "bm": 0,
    "words": 18,
-   "score": 105
+   "score": 106
   },
   {
    "id": "2119072976381304974",
@@ -398,7 +398,7 @@
    "kind": "replied_to",
    "at": "Nov 07 08:22 AM CT",
    "date": "2026-11-07",
-   "imp": 51,
+   "imp": 53,
    "likes": 1,
    "replies": 1,
    "reposts": 0,
@@ -407,9 +407,9 @@
    "parent_author": "JesseTinsley",
    "parent_url": "https://x.com/JesseTinsley/status/2119064835078201855",
    "parent_text": "@onhand_terry Haha started in recruiting much broader. https://t.co/kjXD6SCLPP is the US Bending Spoons 🇺🇸❤️",
-   "parent_imp": 487,
+   "parent_imp": 499,
    "delay_h": 0.5,
-   "score": 101
+   "score": 103
   },
   {
    "id": "2118802302631035168",
@@ -418,18 +418,18 @@
    "kind": "replied_to",
    "at": "Nov 06 02:26 PM CT",
    "date": "2026-11-06",
-   "imp": 59,
+   "imp": 63,
    "likes": 2,
    "replies": 0,
    "reposts": 0,
    "bm": 0,
    "words": 4,
-   "parent_author": "forestmanjohn",
-   "parent_url": "https://x.com/forestmanjohn/status/2118801453326152012",
+   "parent_author": "jcfosterx",
+   "parent_url": "https://x.com/jcfosterx/status/2118801453326152012",
    "parent_text": "@onhand_terry long term goal is 100% in house, short term priority is a product on the market so assembly is most efficiently outsourced",
-   "parent_imp": 168,
+   "parent_imp": 176,
    "delay_h": 0.1,
-   "score": 99
+   "score": 103
   },
   {
    "id": "2117777406371197119",
@@ -447,7 +447,7 @@
    "parent_author": "causticbob",
    "parent_url": "https://x.com/causticbob/status/2117428306437869947",
    "parent_text": "The guy I pay to pick up poop in my back yard just found out I don't have pets.",
-   "parent_imp": 585774,
+   "parent_imp": 585808,
    "delay_h": 23.1,
    "score": 84
   },
@@ -467,7 +467,7 @@
    "parent_author": "pestctrlguy",
    "parent_url": "https://x.com/pestctrlguy/status/2118876940560183361",
    "parent_text": "This is so interesting. The entire premise of the tweet is “how to beat Orkin.”\n\nIt’s really not all that difficult at the local level. That’s not a shot at Orkin specifically, just any of the nationa",
-   "parent_imp": 7293,
+   "parent_imp": 7309,
    "delay_h": 3.4,
    "score": 58
   },
@@ -487,7 +487,7 @@
    "parent_author": "dannypeavey",
    "parent_url": "https://x.com/dannypeavey/status/2117703119953883580",
    "parent_text": "I think the trades are heading into their own clash-of-the-titans era.\n\nRockefeller had oil. Carnegie had steel. Morgan helped consolidate entire industries.\n\nThey built empires, competed for control,",
-   "parent_imp": 1657,
+   "parent_imp": 1658,
    "delay_h": 4.4,
    "score": 54
   },
@@ -498,7 +498,7 @@
    "kind": "replied_to",
    "at": "Nov 07 01:41 PM CT",
    "date": "2026-11-07",
-   "imp": 24,
+   "imp": 25,
    "likes": 1,
    "replies": 0,
    "reposts": 0,
@@ -507,9 +507,9 @@
    "parent_author": "JesseTinsley",
    "parent_url": "https://x.com/JesseTinsley/status/2119152987851640982",
    "parent_text": "@onhand_terry 1) not woke in 2022 unlike competitors \n2) deep experience doing technical hiring for tech companies\n3) had a few connections to Elon and his team. Told them we would work for equity onl",
-   "parent_imp": 68,
+   "parent_imp": 73,
    "delay_h": 0.0,
-   "score": 44
+   "score": 45
   },
   {
    "id": "2117776184297799956",
@@ -527,7 +527,7 @@
    "parent_author": "TylerDurden",
    "parent_url": "https://x.com/TylerDurden/status/2117527630950129994",
    "parent_text": "If you’re a man and you’re struggling right now - just remember nobody cares and it gets worse.\n\nCheers.",
-   "parent_imp": 855060,
+   "parent_imp": 855264,
    "delay_h": 16.5,
    "score": 32
   },
@@ -547,7 +547,7 @@
    "parent_author": "TannerBuilds",
    "parent_url": "https://x.com/TannerBuilds/status/2118009176454783450",
    "parent_text": "I need to figure out a better way to charge for custom home consultations. I spend so much time on compiling accurate estimates for people’s dream homes. I want to charge $1000 for it and if you use u",
-   "parent_imp": 11432,
+   "parent_imp": 11434,
    "delay_h": 11.8,
    "score": 28
   },
@@ -567,7 +567,7 @@
    "parent_author": "jujubileen",
    "parent_url": "https://x.com/jujubileen/status/2117379884997808254",
    "parent_text": "stop scrolling here is a picture of my son smiling https://t.co/rhyeUkRzrp",
-   "parent_imp": 123519,
+   "parent_imp": 123545,
    "delay_h": 31.3,
    "score": 25
   },
@@ -602,7 +602,7 @@
    "parent_author": "Michphil1998",
    "parent_url": "https://x.com/Michphil1998/status/2118668918336491873",
    "parent_text": "Only in Canada can a person who works their ass off 40 hours a week pay more in taxes than an “artist” who tells “stories”!\n\nWork your ass off to paint a houses = pay FULL taxes\nPaint a picture of a m",
-   "parent_imp": 163715,
+   "parent_imp": 163847,
    "delay_h": 36.2,
    "score": 4
   }
@@ -610,11 +610,11 @@
  "notes": {
   "date": "2026-11-09",
   "followers": 49,
-  "summary": "Mon AM: Sunday PM picks (Noah blended CAC, Bodhi AI outbound, Andy Walker, Codie) went unused; the one Sunday reply was off-queue to @Davidjpark96 (\"Brilliant. Don't forget to treat them\"), now 820 views, the best reply of the last 7 days. @SMB_Attorney PI pay-per-lead reply climbed to 621. Fresh AM queue: Gazdecki early exit, Andy Walker attribution, GR on Cuban's SMB AI services take, Danny Magazu leaving tech, Todd Anderson local links.",
+  "summary": "Mon midday: no new replies since this morning, so the AM picks (Gazdecki, Andy Walker, GR on Cuban, Danny Magazu, Todd Anderson) look unused so far. @Davidjpark96 reply sits at 928 views and @SMB_Attorney PI reply at 632. JC Foster's handle is now @jcfosterx, fixed in the watch list. Midday queue: Todd Anderson roofer calls, Guillermo Flor on the AI-CEO holdco, Josh Wolfe on physical-world AI, SMB Law Group on AI not finding customers, Codie's 5 levels.",
   "lessons": [
-   "Short, warm or deadpan replies to bigger founder accounts keep winning: @Davidjpark96 820 views, @JesseTinsley 789, @McCarthyist2 735, @LouisElton96 694.",
+   "Short, warm or deadpan replies to bigger founder accounts keep winning: @Davidjpark96 928 views, @JesseTinsley 798, @McCarthyist2 736, @LouisElton96 694.",
    "Terry's off-queue picks outperformed the queue again over the weekend, so the queue should lean toward larger founder accounts posting relatable founder or family content.",
-   "@SMB_Attorney kept compounding (621 views, up from 472 last night), which supports keeping him on the list."
+   "@SMB_Attorney kept compounding (632 views), which supports keeping him on the list."
   ],
   "trends": [
    "Last 7 days: 18 replies, 5,350 total impressions across 21 posts and replies; followers 49 as of this morning."
