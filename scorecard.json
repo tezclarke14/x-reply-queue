@@ -219,9 +219,20 @@
    "used_suggestion": 0,
    "best": "",
    "followers": 50
+  },
+  {
+   "date": "2026-11-12",
+   "replies": 0,
+   "impressions": 0,
+   "likes": 0,
+   "replies_got": 0,
+   "avg_delay_h": null,
+   "used_suggestion": 0,
+   "best": "",
+   "followers": 50
   }
  ],
- "updated": "Nov 11 2026 12:26 PM CT",
+ "updated": "Nov 12 2026 07:25 AM CT",
  "rows": [
   {
    "id": "2119627958881034693",
@@ -230,7 +241,7 @@
    "kind": "replied_to",
    "at": "Nov 08 09:07 PM CT",
    "date": "2026-11-08",
-   "imp": 1092,
+   "imp": 1095,
    "likes": 1,
    "replies": 1,
    "reposts": 0,
@@ -239,9 +250,9 @@
    "parent_author": "Davidjpark96",
    "parent_url": "https://x.com/Davidjpark96/status/2119613878380396757",
    "parent_text": "my parents had to declare bankruptcy when I was a kid, so they had every reason to pressure me towards a more stable career path\n\ninstead, they were so patient with me, even as i failed startup after ",
-   "parent_imp": 33342,
+   "parent_imp": 33444,
    "delay_h": 0.9,
-   "score": 1142
+   "score": 1145
   },
   {
    "id": "2118986296215400738",
@@ -250,7 +261,7 @@
    "kind": "replied_to",
    "at": "Nov 07 02:37 AM CT",
    "date": "2026-11-07",
-   "imp": 813,
+   "imp": 815,
    "likes": 2,
    "replies": 1,
    "reposts": 0,
@@ -259,9 +270,9 @@
    "parent_author": "JesseTinsley",
    "parent_url": "https://x.com/JesseTinsley/status/2118960795430338674",
    "parent_text": "Easiest way to becoming a multi millionaire are service businesses.\n\nI started a Recruiting services business after dropping out of college. \n\nMade a majority of my wealth this way then spun that mome",
-   "parent_imp": 27055,
+   "parent_imp": 27108,
    "delay_h": 1.7,
-   "score": 883
+   "score": 885
   },
   {
    "id": "2118719266623012909",
@@ -270,7 +281,7 @@
    "kind": "replied_to",
    "at": "Nov 06 08:56 AM CT",
    "date": "2026-11-06",
-   "imp": 687,
+   "imp": 688,
    "likes": 5,
    "replies": 1,
    "reposts": 0,
@@ -279,9 +290,9 @@
    "parent_author": "noahiglerSEO",
    "parent_url": "https://x.com/noahiglerSEO/status/2118679820234023310",
    "parent_text": "Orkin's parent company, Rollins, told investors in September that leads had been falling by double digits since May.\n\nIts CEO's best guess is that at least half of that drop comes from the shift to AI",
-   "parent_imp": 37585,
+   "parent_imp": 37689,
    "delay_h": 2.6,
-   "score": 817
+   "score": 818
   },
   {
    "id": "2119279694730207458",
@@ -290,7 +301,7 @@
    "kind": "replied_to",
    "at": "Nov 07 10:03 PM CT",
    "date": "2026-11-07",
-   "imp": 655,
+   "imp": 656,
    "likes": 3,
    "replies": 1,
    "reposts": 0,
@@ -299,9 +310,9 @@
    "parent_author": "SMB_Attorney",
    "parent_url": "https://x.com/SMB_Attorney/status/2119234604129550810",
    "parent_text": "Personal injury might actually be America’s best business model. Its biggest moat is lawyers thinking they’re too good for it. https://t.co/uV90tKu1ZT",
-   "parent_imp": 199987,
+   "parent_imp": 200164,
    "delay_h": 3.0,
-   "score": 785
+   "score": 786
   },
   {
    "id": "2118766712627638581",
@@ -310,7 +321,7 @@
    "kind": "replied_to",
    "at": "Nov 06 12:05 PM CT",
    "date": "2026-11-06",
-   "imp": 309,
+   "imp": 317,
    "likes": 5,
    "replies": 1,
    "reposts": 0,
@@ -319,9 +330,9 @@
    "parent_author": "jcfosterx",
    "parent_url": "https://x.com/jcfosterx/status/2118764065665233274",
    "parent_text": "Hardware cycles are brutal. When something goes wrong it takes 2-3 months minimum to fix. The progress is slow but each day I’m closer to launch. https://t.co/si6rPslOHJ",
-   "parent_imp": 7125,
+   "parent_imp": 7407,
    "delay_h": 0.2,
-   "score": 439
+   "score": 447
   },
   {
    "id": "2119997200491036731",
@@ -330,7 +341,7 @@
    "kind": "replied_to",
    "at": "Nov 09 09:34 PM CT",
    "date": "2026-11-09",
-   "imp": 134,
+   "imp": 138,
    "likes": 3,
    "replies": 0,
    "reposts": 0,
@@ -339,9 +350,9 @@
    "parent_author": "AlexForbesOps",
    "parent_url": "https://x.com/AlexForbesOps/status/2119834543700017536",
    "parent_text": "I had our old deck ripped out and new patio built this summer. \n\nWe have a single concrete step like this off the slider door.\n\nThe whole crew of 5-6 wrestled it most of the day and threw out their ba",
-   "parent_imp": 75701,
+   "parent_imp": 88944,
    "delay_h": 10.8,
-   "score": 194
+   "score": 198
   },
   {
    "id": "2118802302631035168",
@@ -359,7 +370,7 @@
    "parent_author": "jcfosterx",
    "parent_url": "https://x.com/jcfosterx/status/2118801453326152012",
    "parent_text": "@onhand_terry long term goal is 100% in house, short term priority is a product on the market so assembly is most efficiently outsourced",
-   "parent_imp": 196,
+   "parent_imp": 204,
    "delay_h": 0.1,
    "score": 108
   },
@@ -379,7 +390,7 @@
    "parent_author": "JesseTinsley",
    "parent_url": "https://x.com/JesseTinsley/status/2119064835078201855",
    "parent_text": "@onhand_terry Haha started in recruiting much broader. https://t.co/kjXD6SCLPP is the US Bending Spoons 🇺🇸❤️",
-   "parent_imp": 516,
+   "parent_imp": 519,
    "delay_h": 0.5,
    "score": 103
   },
@@ -399,7 +410,7 @@
    "parent_author": "pestctrlguy",
    "parent_url": "https://x.com/pestctrlguy/status/2118876940560183361",
    "parent_text": "This is so interesting. The entire premise of the tweet is “how to beat Orkin.”\n\nIt’s really not all that difficult at the local level. That’s not a shot at Orkin specifically, just any of the nationa",
-   "parent_imp": 7429,
+   "parent_imp": 7443,
    "delay_h": 3.4,
    "score": 58
   },
@@ -424,26 +435,6 @@
    "score": 45
   },
   {
-   "id": "2118187023513354580",
-   "url": "https://x.com/onhand_terry/status/2118187023513354580",
-   "text": "Good reason to do it, if competition isn’t",
-   "kind": "replied_to",
-   "at": "Nov 04 09:41 PM CT",
-   "date": "2026-11-04",
-   "imp": 8,
-   "likes": 1,
-   "replies": 0,
-   "reposts": 0,
-   "bm": 0,
-   "words": 8,
-   "parent_author": "TannerBuilds",
-   "parent_url": "https://x.com/TannerBuilds/status/2118009176454783450",
-   "parent_text": "I need to figure out a better way to charge for custom home consultations. I spend so much time on compiling accurate estimates for people’s dream homes. I want to charge $1000 for it and if you use u",
-   "parent_imp": 11454,
-   "delay_h": 11.8,
-   "score": 28
-  },
-  {
    "id": "2119216098348560407",
    "url": "https://x.com/onhand_terry/status/2119216098348560407",
    "text": "All plumbers should throw some grease at a canvas once a yeast, slap it on Etsy and call it art",
@@ -459,22 +450,22 @@
    "parent_author": "Michphil1998",
    "parent_url": "https://x.com/Michphil1998/status/2118668918336491873",
    "parent_text": "Only in Canada can a person who works their ass off 40 hours a week pay more in taxes than an “artist” who tells “stories”!\n\nWork your ass off to paint a houses = pay FULL taxes\nPaint a picture of a m",
-   "parent_imp": 164319,
+   "parent_imp": 164458,
    "delay_h": 36.2,
    "score": 4
   }
  ],
  "notes": {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "followers": 50,
-  "summary": "Wed morning: no new replies since the @AlexForbesOps deadpan on Nov 9 (now 129 views), so Tuesday's two queues went unused. Best of the last 7 days is still @Davidjpark96 at 1,091 views, then @JesseTinsley 813, @noahiglerSEO 687 and @SMB_Attorney 653. Followers ticked up to 50.",
+  "summary": "Thu morning: still no new replies since the @AlexForbesOps deadpan late Nov 9 CT (now 138 views), so three queues in a row went unused. Best of the last 7 days is @Davidjpark96 at 1,095 views, then @JesseTinsley 815, @noahiglerSEO 688 and @SMB_Attorney 656. Followers flat at 50.",
   "lessons": [
-   "Short deadpan replies to big founder accounts keep winning: @Davidjpark96 1,091 views and @JesseTinsley 813, both under 12 words.",
-   "Two days of unused queue picks, so this morning sticks to posts that suit a quick one-liner rather than a considered take.",
-   "Questions to operators open doors: the @forestmanjohn (now @jcfosterx) assembly question got 301 views and led to a DM."
+   "Short deadpan replies to big founder accounts keep winning: @Davidjpark96 1,095 views and @JesseTinsley 815, both under 12 words.",
+   "Three unused queues in a row, so this morning is just three picks, one with a ready one-liner for a 317k-follower account.",
+   "Questions to operators open doors: the @forestmanjohn (now @jcfosterx) assembly question reached 317 views and led to a DM."
   ],
   "trends": [
-   "Last 7 days: 12 posts and replies, 3,890 total impressions; followers 50 (up from 49)."
+   "Last 7 days: 11 posts and replies, 3,917 total impressions; followers 50 (flat)."
   ]
  }
 }
