@@ -241,9 +241,20 @@
    "used_suggestion": 0,
    "best": "",
    "followers": 50
+  },
+  {
+   "date": "2026-11-14",
+   "replies": 0,
+   "impressions": 0,
+   "likes": 0,
+   "replies_got": 0,
+   "avg_delay_h": null,
+   "used_suggestion": 0,
+   "best": "",
+   "followers": 50
   }
  ],
- "updated": "Nov 13 2026 12:22 PM CT",
+ "updated": "Nov 14 2026 07:23 AM CT",
  "rows": [
   {
    "id": "2119627958881034693",
@@ -252,7 +263,7 @@
    "kind": "replied_to",
    "at": "Nov 08 09:07 PM CT",
    "date": "2026-11-08",
-   "imp": 1100,
+   "imp": 1101,
    "likes": 1,
    "replies": 1,
    "reposts": 0,
@@ -261,29 +272,9 @@
    "parent_author": "Davidjpark96",
    "parent_url": "https://x.com/Davidjpark96/status/2119613878380396757",
    "parent_text": "my parents had to declare bankruptcy when I was a kid, so they had every reason to pressure me towards a more stable career path\n\ninstead, they were so patient with me, even as i failed startup after ",
-   "parent_imp": 33575,
+   "parent_imp": 33645,
    "delay_h": 0.9,
-   "score": 1150
-  },
-  {
-   "id": "2118986296215400738",
-   "url": "https://x.com/onhand_terry/status/2118986296215400738",
-   "text": "Would you say you’re like the bendingnspoons of recruitment",
-   "kind": "replied_to",
-   "at": "Nov 07 02:37 AM CT",
-   "date": "2026-11-07",
-   "imp": 816,
-   "likes": 2,
-   "replies": 1,
-   "reposts": 0,
-   "bm": 0,
-   "words": 9,
-   "parent_author": "JesseTinsley",
-   "parent_url": "https://x.com/JesseTinsley/status/2118960795430338674",
-   "parent_text": "Easiest way to becoming a multi millionaire are service businesses.\n\nI started a Recruiting services business after dropping out of college. \n\nMade a majority of my wealth this way then spun that mome",
-   "parent_imp": 27167,
-   "delay_h": 1.7,
-   "score": 886
+   "score": 1151
   },
   {
    "id": "2119279694730207458",
@@ -301,7 +292,7 @@
    "parent_author": "SMB_Attorney",
    "parent_url": "https://x.com/SMB_Attorney/status/2119234604129550810",
    "parent_text": "Personal injury might actually be America’s best business model. Its biggest moat is lawyers thinking they’re too good for it. https://t.co/uV90tKu1ZT",
-   "parent_imp": 200408,
+   "parent_imp": 200511,
    "delay_h": 3.0,
    "score": 788
   },
@@ -312,7 +303,7 @@
    "kind": "replied_to",
    "at": "Nov 09 09:34 PM CT",
    "date": "2026-11-09",
-   "imp": 143,
+   "imp": 145,
    "likes": 3,
    "replies": 0,
    "reposts": 0,
@@ -321,29 +312,9 @@
    "parent_author": "AlexForbesOps",
    "parent_url": "https://x.com/AlexForbesOps/status/2119834543700017536",
    "parent_text": "I had our old deck ripped out and new patio built this summer. \n\nWe have a single concrete step like this off the slider door.\n\nThe whole crew of 5-6 wrestled it most of the day and threw out their ba",
-   "parent_imp": 96283,
+   "parent_imp": 98067,
    "delay_h": 10.8,
-   "score": 203
-  },
-  {
-   "id": "2118802302631035168",
-   "url": "https://x.com/onhand_terry/status/2118802302631035168",
-   "text": "Going to dm you",
-   "kind": "replied_to",
-   "at": "Nov 06 02:26 PM CT",
-   "date": "2026-11-06",
-   "imp": 69,
-   "likes": 2,
-   "replies": 0,
-   "reposts": 0,
-   "bm": 0,
-   "words": 4,
-   "parent_author": "jcfosterx",
-   "parent_url": "https://x.com/jcfosterx/status/2118801453326152012",
-   "parent_text": "@onhand_terry long term goal is 100% in house, short term priority is a product on the market so assembly is most efficiently outsourced",
-   "parent_imp": 210,
-   "delay_h": 0.1,
-   "score": 109
+   "score": 205
   },
   {
    "id": "2119072976381304974",
@@ -364,26 +335,6 @@
    "parent_imp": 520,
    "delay_h": 0.5,
    "score": 103
-  },
-  {
-   "id": "2118928183495938431",
-   "url": "https://x.com/onhand_terry/status/2118928183495938431",
-   "text": "I worked at a Rollins company for a brief period - a commercial-only brand in San Francisco. They have insane brand loyalty for the top end government and commercial work. The city health inspectors will recommend them to businesses and all the established property managers know",
-   "kind": "replied_to",
-   "at": "Nov 06 10:47 PM CT",
-   "date": "2026-11-06",
-   "imp": 60,
-   "likes": 0,
-   "replies": 0,
-   "reposts": 0,
-   "bm": 0,
-   "words": 46,
-   "parent_author": "pestctrlguy",
-   "parent_url": "https://x.com/pestctrlguy/status/2118876940560183361",
-   "parent_text": "This is so interesting. The entire premise of the tweet is “how to beat Orkin.”\n\nIt’s really not all that difficult at the local level. That’s not a shot at Orkin specifically, just any of the nationa",
-   "parent_imp": 7461,
-   "delay_h": 3.4,
-   "score": 60
   },
   {
    "id": "2119153391813394863",
@@ -421,22 +372,22 @@
    "parent_author": "Michphil1998",
    "parent_url": "https://x.com/Michphil1998/status/2118668918336491873",
    "parent_text": "Only in Canada can a person who works their ass off 40 hours a week pay more in taxes than an “artist” who tells “stories”!\n\nWork your ass off to paint a houses = pay FULL taxes\nPaint a picture of a m",
-   "parent_imp": 164667,
+   "parent_imp": 164934,
    "delay_h": 36.2,
    "score": 4
   }
  ],
  "notes": {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "followers": 50,
-  "summary": "Fri midday: still no new replies since the @AlexForbesOps deadpan late Nov 9 CT (143 views), so six queues in a row went unused. Best of the last 7 days is @Davidjpark96 at 1,100 views, then @JesseTinsley 816 and @SMB_Attorney 658.",
+  "summary": "Sat morning: no new replies since the @AlexForbesOps deadpan late Nov 9 CT (145 views); seven queues in a row unused. Best of the last 7 days is still @Davidjpark96 at 1,101 views, then @SMB_Attorney 658.",
   "lessons": [
-   "Short deadpan replies to big founder accounts keep winning: @Davidjpark96 1,098 views and @JesseTinsley 816, both under 12 words.",
-   "Replies with a real trades detail travel too: the Rollins reply to @noahiglerSEO reached 692 views, and he posted again this morning.",
-   "Six unused queues in a row; this run leans on reach: two @awilkinson posts (one an Austin meetup ask, right on Terry's doorstep) plus three home-service and AI-rollup picks."
+   "Short deadpan replies to founder accounts keep winning: @Davidjpark96 1,101 views on under 10 words.",
+   "A real trades detail travels: @SMB_Attorney 'Pay per lead for PI can be five figures' reached 658 views.",
+   "Saturday mornings are thin: only 2 watch-list posts in the last 3 hours, and the HVAC topic search was all ads and spam."
   ],
   "trends": [
-   "Last 7 days: 9 replies, 2,928 total impressions; no replies since Nov 9 CT."
+   "Last 7 days: 6 replies, 1,986 total impressions; no replies since Nov 9 CT."
   ]
  }
 }
