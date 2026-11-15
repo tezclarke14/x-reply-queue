@@ -252,9 +252,20 @@
    "used_suggestion": 0,
    "best": "",
    "followers": 50
+  },
+  {
+   "date": "2026-11-15",
+   "replies": 0,
+   "impressions": 0,
+   "likes": 0,
+   "replies_got": 0,
+   "avg_delay_h": null,
+   "used_suggestion": 0,
+   "best": "",
+   "followers": 50
   }
  ],
- "updated": "Nov 14 2026 07:23 AM CT",
+ "updated": "Nov 15 2026 07:35 AM CT",
  "rows": [
   {
    "id": "2119627958881034693",
@@ -263,7 +274,7 @@
    "kind": "replied_to",
    "at": "Nov 08 09:07 PM CT",
    "date": "2026-11-08",
-   "imp": 1101,
+   "imp": 1103,
    "likes": 1,
    "replies": 1,
    "reposts": 0,
@@ -272,29 +283,9 @@
    "parent_author": "Davidjpark96",
    "parent_url": "https://x.com/Davidjpark96/status/2119613878380396757",
    "parent_text": "my parents had to declare bankruptcy when I was a kid, so they had every reason to pressure me towards a more stable career path\n\ninstead, they were so patient with me, even as i failed startup after ",
-   "parent_imp": 33645,
+   "parent_imp": 33719,
    "delay_h": 0.9,
-   "score": 1151
-  },
-  {
-   "id": "2119279694730207458",
-   "url": "https://x.com/onhand_terry/status/2119279694730207458",
-   "text": "Pay per lead for PI can be five figures",
-   "kind": "replied_to",
-   "at": "Nov 07 10:03 PM CT",
-   "date": "2026-11-07",
-   "imp": 658,
-   "likes": 3,
-   "replies": 1,
-   "reposts": 0,
-   "bm": 2,
-   "words": 9,
-   "parent_author": "SMB_Attorney",
-   "parent_url": "https://x.com/SMB_Attorney/status/2119234604129550810",
-   "parent_text": "Personal injury might actually be America’s best business model. Its biggest moat is lawyers thinking they’re too good for it. https://t.co/uV90tKu1ZT",
-   "parent_imp": 200511,
-   "delay_h": 3.0,
-   "score": 788
+   "score": 1153
   },
   {
    "id": "2119997200491036731",
@@ -303,7 +294,7 @@
    "kind": "replied_to",
    "at": "Nov 09 09:34 PM CT",
    "date": "2026-11-09",
-   "imp": 145,
+   "imp": 148,
    "likes": 3,
    "replies": 0,
    "reposts": 0,
@@ -312,82 +303,22 @@
    "parent_author": "AlexForbesOps",
    "parent_url": "https://x.com/AlexForbesOps/status/2119834543700017536",
    "parent_text": "I had our old deck ripped out and new patio built this summer. \n\nWe have a single concrete step like this off the slider door.\n\nThe whole crew of 5-6 wrestled it most of the day and threw out their ba",
-   "parent_imp": 98067,
+   "parent_imp": 100862,
    "delay_h": 10.8,
-   "score": 205
-  },
-  {
-   "id": "2119072976381304974",
-   "url": "https://x.com/onhand_terry/status/2119072976381304974",
-   "text": "Awesome. Would love to hear how you won the contract to supply Elon if you are able to!",
-   "kind": "replied_to",
-   "at": "Nov 07 08:22 AM CT",
-   "date": "2026-11-07",
-   "imp": 53,
-   "likes": 1,
-   "replies": 1,
-   "reposts": 0,
-   "bm": 0,
-   "words": 18,
-   "parent_author": "JesseTinsley",
-   "parent_url": "https://x.com/JesseTinsley/status/2119064835078201855",
-   "parent_text": "@onhand_terry Haha started in recruiting much broader. https://t.co/kjXD6SCLPP is the US Bending Spoons 🇺🇸❤️",
-   "parent_imp": 520,
-   "delay_h": 0.5,
-   "score": 103
-  },
-  {
-   "id": "2119153391813394863",
-   "url": "https://x.com/onhand_terry/status/2119153391813394863",
-   "text": "Amazing. Congrats!",
-   "kind": "replied_to",
-   "at": "Nov 07 01:41 PM CT",
-   "date": "2026-11-07",
-   "imp": 25,
-   "likes": 1,
-   "replies": 0,
-   "reposts": 0,
-   "bm": 0,
-   "words": 2,
-   "parent_author": "JesseTinsley",
-   "parent_url": "https://x.com/JesseTinsley/status/2119152987851640982",
-   "parent_text": "@onhand_terry 1) not woke in 2022 unlike competitors \n2) deep experience doing technical hiring for tech companies\n3) had a few connections to Elon and his team. Told them we would work for equity onl",
-   "parent_imp": 74,
-   "delay_h": 0.0,
-   "score": 45
-  },
-  {
-   "id": "2119216098348560407",
-   "url": "https://x.com/onhand_terry/status/2119216098348560407",
-   "text": "All plumbers should throw some grease at a canvas once a yeast, slap it on Etsy and call it art",
-   "kind": "replied_to",
-   "at": "Nov 07 05:51 PM CT",
-   "date": "2026-11-07",
-   "imp": 4,
-   "likes": 0,
-   "replies": 0,
-   "reposts": 0,
-   "bm": 0,
-   "words": 20,
-   "parent_author": "Michphil1998",
-   "parent_url": "https://x.com/Michphil1998/status/2118668918336491873",
-   "parent_text": "Only in Canada can a person who works their ass off 40 hours a week pay more in taxes than an “artist” who tells “stories”!\n\nWork your ass off to paint a houses = pay FULL taxes\nPaint a picture of a m",
-   "parent_imp": 164934,
-   "delay_h": 36.2,
-   "score": 4
+   "score": 208
   }
  ],
  "notes": {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "followers": 50,
-  "summary": "Sat morning: no new replies since the @AlexForbesOps deadpan late Nov 9 CT (145 views); seven queues in a row unused. Best of the last 7 days is still @Davidjpark96 at 1,101 views, then @SMB_Attorney 658.",
+  "summary": "Sun morning: still no new replies since the @AlexForbesOps deadpan late Nov 9 CT (148 views); the last eight queues went unused. In the 7-day window only two replies remain: @Davidjpark96 at 1,103 views and @AlexForbesOps at 148.",
   "lessons": [
-   "Short deadpan replies to founder accounts keep winning: @Davidjpark96 1,101 views on under 10 words.",
-   "A real trades detail travels: @SMB_Attorney 'Pay per lead for PI can be five figures' reached 658 views.",
-   "Saturday mornings are thin: only 2 watch-list posts in the last 3 hours, and the HVAC topic search was all ads and spam."
+   "Short deadpan replies to founder accounts keep winning: @Davidjpark96 1,103 views on under 10 words.",
+   "Big-account timing matters: the Davidjpark96 reply landed within an hour of his post.",
+   "Sunday mornings are thin: only 2 watch-list posts in the last 3 hours, and the trades topic search was mostly spam, ads and politics."
   ],
   "trends": [
-   "Last 7 days: 6 replies, 1,986 total impressions; no replies since Nov 9 CT."
+   "Last 7 days: 2 replies, 1,251 total impressions; no replies since Nov 9 CT."
   ]
  }
 }
