@@ -263,30 +263,21 @@
    "used_suggestion": 0,
    "best": "",
    "followers": 50
+  },
+  {
+   "date": "2026-11-16",
+   "replies": 0,
+   "impressions": 0,
+   "likes": 0,
+   "replies_got": 0,
+   "avg_delay_h": null,
+   "used_suggestion": 0,
+   "best": "",
+   "followers": 48
   }
  ],
- "updated": "Nov 15 2026 07:35 AM CT",
+ "updated": "Nov 16 2026 07:31 AM CT",
  "rows": [
-  {
-   "id": "2119627958881034693",
-   "url": "https://x.com/onhand_terry/status/2119627958881034693",
-   "text": "Brilliant. Don’t forget to treat them 👍",
-   "kind": "replied_to",
-   "at": "Nov 08 09:07 PM CT",
-   "date": "2026-11-08",
-   "imp": 1103,
-   "likes": 1,
-   "replies": 1,
-   "reposts": 0,
-   "bm": 0,
-   "words": 7,
-   "parent_author": "Davidjpark96",
-   "parent_url": "https://x.com/Davidjpark96/status/2119613878380396757",
-   "parent_text": "my parents had to declare bankruptcy when I was a kid, so they had every reason to pressure me towards a more stable career path\n\ninstead, they were so patient with me, even as i failed startup after ",
-   "parent_imp": 33719,
-   "delay_h": 0.9,
-   "score": 1153
-  },
   {
    "id": "2119997200491036731",
    "url": "https://x.com/onhand_terry/status/2119997200491036731",
@@ -303,22 +294,22 @@
    "parent_author": "AlexForbesOps",
    "parent_url": "https://x.com/AlexForbesOps/status/2119834543700017536",
    "parent_text": "I had our old deck ripped out and new patio built this summer. \n\nWe have a single concrete step like this off the slider door.\n\nThe whole crew of 5-6 wrestled it most of the day and threw out their ba",
-   "parent_imp": 100862,
+   "parent_imp": 101399,
    "delay_h": 10.8,
    "score": 208
   }
  ],
  "notes": {
-  "date": "2026-11-15",
-  "followers": 50,
-  "summary": "Sun morning: still no new replies since the @AlexForbesOps deadpan late Nov 9 CT (148 views); the last eight queues went unused. In the 7-day window only two replies remain: @Davidjpark96 at 1,103 views and @AlexForbesOps at 148.",
+  "date": "2026-11-16",
+  "followers": 48,
+  "summary": "Mon morning: no new replies since the @AlexForbesOps deadpan late Nov 9 CT (148 views); the last nine queues went unused. The @Davidjpark96 reply (1,103 views) has aged out of the 7-day window, leaving one reply in it.",
   "lessons": [
-   "Short deadpan replies to founder accounts keep winning: @Davidjpark96 1,103 views on under 10 words.",
-   "Big-account timing matters: the Davidjpark96 reply landed within an hour of his post.",
-   "Sunday mornings are thin: only 2 watch-list posts in the last 3 hours, and the trades topic search was mostly spam, ads and politics."
+   "Short deadpan replies to founder accounts still hold the best results: @Davidjpark96 1,103 views and @AlexForbesOps 148, both under 10 words.",
+   "A week without replies means reach is back near zero; one fast reply to a big account resets it.",
+   "Monday morning is busier than the weekend: 7 watch-list posts and a fresh HVAC pricing post from a 21.9k-follower account in the last 3 hours."
   ],
   "trends": [
-   "Last 7 days: 2 replies, 1,251 total impressions; no replies since Nov 9 CT."
+   "Last 7 days: 1 reply, 148 impressions; no replies since Nov 9 CT. Followers 48 per today's fetch."
   ]
  }
 }
