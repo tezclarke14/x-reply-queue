@@ -287,7 +287,7 @@
    "followers": 49
   }
  ],
- "updated": "Nov 18 2026 07:27 AM CT",
+ "updated": "Nov 18 2026 12:35 PM CT",
  "rows": [
   {
    "id": "2122830318394597631",
@@ -296,26 +296,26 @@
    "kind": "post",
    "at": "Nov 17 05:12 PM CT",
    "date": "2026-11-17",
-   "imp": 41,
+   "imp": 53,
    "likes": 3,
-   "replies": 0,
+   "replies": 1,
    "reposts": 1,
    "bm": 0,
    "words": 49,
-   "score": 141
+   "score": 183
   }
  ],
  "notes": {
   "date": "2026-11-18",
   "followers": 49,
-  "summary": "Wed morning: no replies in the last 7 days (the Nov 9 @AlexForbesOps reply has aged out of the window). Your new original post on garage door certification (Nov 17, 5:12 PM CT) has 41 impressions, 3 likes, 1 repost. Followers 49, up from 48 on Nov 16.",
+  "summary": "Wed midday: still no replies in the last 7 days, and none of this morning's 4 picks were used. Your garage door certification post (Nov 17, 5:12 PM CT) is up to 53 impressions, 3 likes, 1 repost and its first reply. Followers 49.",
   "lessons": [
    "Short deadpan replies to founder accounts still hold the best results: @Davidjpark96 1,103 views and @AlexForbesOps 148, both under 10 words.",
    "Your garage door certification post is real, first-hand trades experience; it gives you a fresh angle for home-service pricing and ops replies.",
-   "With no replies for 9 days, reach depends on originals; one fast reply to a big account like @agazdecki (318k) is the quickest reset."
+   "With no replies for 9 days, reach depends on originals; one fast reply to a big account (today: @Codie_Sanchez 717k, @sweatystartup 536k) is the quickest reset."
   ],
   "trends": [
-   "Last 7 days: 0 replies, 1 original post (41 impressions). Followers 49 per today's fetch."
+   "Last 7 days: 0 replies, 1 original post (53 impressions, up from 41 this morning). Followers 49 per today's fetch."
   ]
  }
 }
