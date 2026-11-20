@@ -296,9 +296,20 @@
    "used_suggestion": 0,
    "best": "",
    "followers": null
+  },
+  {
+   "date": "2026-11-20",
+   "replies": 0,
+   "impressions": 0,
+   "likes": 0,
+   "replies_got": 0,
+   "avg_delay_h": null,
+   "used_suggestion": 0,
+   "best": "",
+   "followers": null
   }
  ],
- "updated": "Nov 19 2026 12:29 PM CT",
+ "updated": "Nov 20 2026 07:28 AM CT",
  "rows": [
   {
    "id": "2123231447032930767",
@@ -307,18 +318,18 @@
    "kind": "replied_to",
    "at": "Nov 18 07:46 PM CT",
    "date": "2026-11-18",
-   "imp": 196,
-   "likes": 0,
-   "replies": 0,
+   "imp": 364,
+   "likes": 2,
+   "replies": 1,
    "reposts": 0,
    "bm": 0,
    "words": 52,
    "parent_author": "?",
    "parent_url": "https://x.com/i/status/2123159871537476007",
    "parent_text": "Yikes https://t.co/0jgrUMpbLx",
-   "parent_imp": 20385,
+   "parent_imp": 26897,
    "delay_h": 4.7,
-   "score": 196
+   "score": 434
   },
   {
    "id": "2122830318394597631",
@@ -327,25 +338,25 @@
    "kind": "post",
    "at": "Nov 17 05:12 PM CT",
    "date": "2026-11-17",
-   "imp": 56,
+   "imp": 66,
    "likes": 3,
    "replies": 1,
    "reposts": 1,
    "bm": 0,
    "words": 49,
-   "score": 186
+   "score": 196
   }
  ],
  "notes": {
-  "date": "2026-11-19",
-  "summary": "Thu midday: no new replies since this morning and none of today's 7:30 picks were used. The off-queue @kamilrextin reply (Nov 18, 7:46 PM CT) is at 231 impressions; your garage door certification post is at 59 impressions, 3 likes, 1 repost.",
+  "date": "2026-11-20",
+  "summary": "Fri morning: no new replies in the last day and yesterday's picks went unused. The off-queue @kamilrextin reply (Nov 18) is now at 364 impressions, 2 likes, 1 reply; your garage door certification post is at 66 impressions, 3 likes, 1 repost.",
   "lessons": [
-   "The @kamilrextin reply drew 196 views on a 20k-view parent: a fast reply to a busy post still beats waiting for perfect picks.",
-   "It was a longer story reply; your best results remain short deadpan lines (@Davidjpark96 1,103 views, under 10 words).",
-   "Queue picks went unused again; today's list leans on Ohm's real lead and attribution problems, which you can answer from experience."
+   "The @kamilrextin reply kept climbing (231 to 364 impressions overnight): replies to busy posts keep earning after the first hour.",
+   "Your best results are still short deadpan lines (@Davidjpark96 1,103 views, under 10 words).",
+   "Today's picks lean on things you've actually done (closing TradesOS, the garage door course, Ohm's calls) so a one-liner takes seconds."
   ],
   "trends": [
-   "Last 7 days: 1 reply (231 impressions), 1 original post (59 impressions)."
+   "Last 7 days: 1 reply (364 impressions), 1 original post (66 impressions)."
   ]
  }
 }
