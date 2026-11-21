@@ -307,9 +307,20 @@
    "used_suggestion": 0,
    "best": "",
    "followers": null
+  },
+  {
+   "date": "2026-11-21",
+   "replies": 0,
+   "impressions": 0,
+   "likes": 0,
+   "replies_got": 0,
+   "avg_delay_h": null,
+   "used_suggestion": 0,
+   "best": "",
+   "followers": null
   }
  ],
- "updated": "Nov 20 2026 12:36 PM CT",
+ "updated": "Nov 21 2026 07:31 AM CT",
  "rows": [
   {
    "id": "2123231447032930767",
@@ -318,18 +329,18 @@
    "kind": "replied_to",
    "at": "Nov 18 07:46 PM CT",
    "date": "2026-11-18",
-   "imp": 372,
+   "imp": 377,
    "likes": 2,
    "replies": 1,
    "reposts": 0,
    "bm": 0,
    "words": 52,
-   "parent_author": "?",
-   "parent_url": "https://x.com/i/status/2123159871537476007",
+   "parent_author": "kamilrextin",
+   "parent_url": "https://x.com/kamilrextin/status/2123159871537476007",
    "parent_text": "Yikes https://t.co/0jgrUMpbLx",
-   "parent_imp": 27072,
+   "parent_imp": 27174,
    "delay_h": 4.7,
-   "score": 442
+   "score": 447
   },
   {
    "id": "2122830318394597631",
@@ -338,25 +349,105 @@
    "kind": "post",
    "at": "Nov 17 05:12 PM CT",
    "date": "2026-11-17",
-   "imp": 68,
+   "imp": 75,
    "likes": 3,
    "replies": 1,
    "reposts": 1,
    "bm": 0,
    "words": 49,
-   "score": 198
+   "score": 205
+  },
+  {
+   "id": "2123870668567540183",
+   "url": "https://x.com/onhand_terry/status/2123870668567540183",
+   "text": "Their problem is the existing customers giving feedback either hate it already and are looking to leave, or are staying and don’t want it to change. The latter cohort is getting too small to sustain the company. Don’t see a way out for them.",
+   "kind": "replied_to",
+   "at": "Nov 20 02:06 PM CT",
+   "date": "2026-11-20",
+   "imp": 121,
+   "likes": 0,
+   "replies": 0,
+   "reposts": 0,
+   "bm": 0,
+   "words": 44,
+   "parent_author": "coreyhainesco",
+   "parent_url": "https://x.com/coreyhainesco/status/2123609219731796186",
+   "parent_text": "Honestly mad respect for owning it https://t.co/LnTAGxLaj3",
+   "parent_imp": 107536,
+   "delay_h": 17.3,
+   "score": 121
+  },
+  {
+   "id": "2123971954621181954",
+   "url": "https://x.com/onhand_terry/status/2123971954621181954",
+   "text": "My contact at Beehiiv 😄",
+   "kind": "replied_to",
+   "at": "Nov 20 08:49 PM CT",
+   "date": "2026-11-20",
+   "imp": 106,
+   "likes": 0,
+   "replies": 0,
+   "reposts": 0,
+   "bm": 0,
+   "words": 5,
+   "parent_author": "denk_tweets",
+   "parent_url": "https://x.com/denk_tweets/status/2123788839990735100",
+   "parent_text": "a brief history of what happens when you get acquired by bending spoons:\n\n&gt; evernote: 129 people cut six weeks after the deal closed. the $130 plan is now $250\n\n&gt; brightcove: 2/3 of the US team ",
+   "parent_imp": 77172,
+   "delay_h": 12.1,
+   "score": 106
+  },
+  {
+   "id": "2123959798412550176",
+   "url": "https://x.com/onhand_terry/status/2123959798412550176",
+   "text": "It’s not, continue!",
+   "kind": "replied_to",
+   "at": "Nov 20 08:00 PM CT",
+   "date": "2026-11-20",
+   "imp": 8,
+   "likes": 1,
+   "replies": 0,
+   "reposts": 1,
+   "bm": 0,
+   "words": 3,
+   "parent_author": "KTmBoyle",
+   "parent_url": "https://x.com/KTmBoyle/status/2123544262398951695",
+   "parent_text": "This came home from Kindergarten today.\n\nMy work is done here. 🦃 🇺🇸🚀💪 https://t.co/WVopeNowAw",
+   "parent_imp": 564123,
+   "delay_h": 27.5,
+   "score": 68
+  },
+  {
+   "id": "2123951610183205262",
+   "url": "https://x.com/onhand_terry/status/2123951610183205262",
+   "text": "Someone SPAC spending boons",
+   "kind": "replied_to",
+   "at": "Nov 20 07:28 PM CT",
+   "date": "2026-11-20",
+   "imp": 38,
+   "likes": 1,
+   "replies": 0,
+   "reposts": 0,
+   "bm": 0,
+   "words": 4,
+   "parent_author": "AgustinLebron3",
+   "parent_url": "https://x.com/AgustinLebron3/status/2123859702979211307",
+   "parent_text": "So whatever SaaS that Bending Spoons buys, start working on a cheaper replacement?",
+   "parent_imp": 8522,
+   "delay_h": 6.1,
+   "score": 58
   }
  ],
  "notes": {
-  "date": "2026-11-20",
-  "summary": "Fri midday: still no new replies today, so this morning's picks went unused. The off-queue @kamilrextin reply (Nov 18) is at 372 impressions, 2 likes; your garage door certification post is at 68 impressions, 3 likes.",
+  "date": "2026-11-21",
+  "summary": "Sat AM: 4 new replies Fri evening, all off-queue (@coreyhainesco 121 impressions, @denk_tweets 106, @AgustinLebron3 38, @KTmBoyle 8), so Friday's 9 queue picks went unused. The @kamilrextin reply (Nov 18) is now at 377 impressions, 2 likes; the garage door post is at 75 impressions, 3 likes.",
   "lessons": [
-   "The @kamilrextin reply is still creeping up (364 to 372 impressions since this morning): replies to busy posts keep earning after the first hour.",
-   "Your best results are still short deadpan lines (@Davidjpark96 1,103 views, under 10 words).",
-   "Midday picks lean on HVAC buying/running and Ohm's call economics, where you have first-hand material."
+   "Replies on big parents still give the most reach: @coreyhainesco (107k-view parent) and @denk_tweets (77k) each passed 100 impressions within hours.",
+   "Tiny replies on huge posts can get buried: @KTmBoyle's 564k-view post earned your 4-word reply 8 impressions, so get in early.",
+   "@kamilrextin still the top reply of the week at 377 impressions with 1 reply back."
   ],
   "trends": [
-   "Last 7 days: 1 reply (372 impressions), 1 original post (68 impressions)."
+   "Last 7 days: 5 replies (650 impressions total), 1 original post (75 impressions)."
   ]
  }
 }
