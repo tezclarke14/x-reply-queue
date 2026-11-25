@@ -318,9 +318,20 @@
    "used_suggestion": 0,
    "best": "",
    "followers": null
+  },
+  {
+   "date": "2026-11-25",
+   "replies": 0,
+   "impressions": 0,
+   "likes": 0,
+   "replies_got": 0,
+   "avg_delay_h": null,
+   "used_suggestion": 0,
+   "best": "",
+   "followers": null
   }
  ],
- "updated": "Nov 21 2026 07:31 AM CT",
+ "updated": "Nov 25 2026 07:30 AM CT",
  "rows": [
   {
    "id": "2123231447032930767",
@@ -329,7 +340,7 @@
    "kind": "replied_to",
    "at": "Nov 18 07:46 PM CT",
    "date": "2026-11-18",
-   "imp": 377,
+   "imp": 382,
    "likes": 2,
    "replies": 1,
    "reposts": 0,
@@ -338,44 +349,9 @@
    "parent_author": "kamilrextin",
    "parent_url": "https://x.com/kamilrextin/status/2123159871537476007",
    "parent_text": "Yikes https://t.co/0jgrUMpbLx",
-   "parent_imp": 27174,
+   "parent_imp": 27319,
    "delay_h": 4.7,
-   "score": 447
-  },
-  {
-   "id": "2122830318394597631",
-   "url": "https://x.com/onhand_terry/status/2122830318394597631",
-   "text": "For fun I got garage door installation certified recently.\n\nTraveled to Maryland, did 5 days training and took an exam.\n\n- $2,400 for a 5 day course\n- $1,600 flights, hotel, food etc\n- learning repair and new installs\n\nEarning potential:\n\nThe avg garage door truck makes about https://t.co/6kvPTM298M",
-   "kind": "post",
-   "at": "Nov 17 05:12 PM CT",
-   "date": "2026-11-17",
-   "imp": 75,
-   "likes": 3,
-   "replies": 1,
-   "reposts": 1,
-   "bm": 0,
-   "words": 49,
-   "score": 205
-  },
-  {
-   "id": "2123870668567540183",
-   "url": "https://x.com/onhand_terry/status/2123870668567540183",
-   "text": "Their problem is the existing customers giving feedback either hate it already and are looking to leave, or are staying and don’t want it to change. The latter cohort is getting too small to sustain the company. Don’t see a way out for them.",
-   "kind": "replied_to",
-   "at": "Nov 20 02:06 PM CT",
-   "date": "2026-11-20",
-   "imp": 121,
-   "likes": 0,
-   "replies": 0,
-   "reposts": 0,
-   "bm": 0,
-   "words": 44,
-   "parent_author": "coreyhainesco",
-   "parent_url": "https://x.com/coreyhainesco/status/2123609219731796186",
-   "parent_text": "Honestly mad respect for owning it https://t.co/LnTAGxLaj3",
-   "parent_imp": 107536,
-   "delay_h": 17.3,
-   "score": 121
+   "score": 452
   },
   {
    "id": "2123971954621181954",
@@ -384,7 +360,7 @@
    "kind": "replied_to",
    "at": "Nov 20 08:49 PM CT",
    "date": "2026-11-20",
-   "imp": 106,
+   "imp": 161,
    "likes": 0,
    "replies": 0,
    "reposts": 0,
@@ -393,29 +369,29 @@
    "parent_author": "denk_tweets",
    "parent_url": "https://x.com/denk_tweets/status/2123788839990735100",
    "parent_text": "a brief history of what happens when you get acquired by bending spoons:\n\n&gt; evernote: 129 people cut six weeks after the deal closed. the $130 plan is now $250\n\n&gt; brightcove: 2/3 of the US team ",
-   "parent_imp": 77172,
+   "parent_imp": 114754,
    "delay_h": 12.1,
-   "score": 106
+   "score": 161
   },
   {
-   "id": "2123959798412550176",
-   "url": "https://x.com/onhand_terry/status/2123959798412550176",
-   "text": "It’s not, continue!",
+   "id": "2123870668567540183",
+   "url": "https://x.com/onhand_terry/status/2123870668567540183",
+   "text": "Their problem is the existing customers giving feedback either hate it already and are looking to leave, or are staying and don’t want it to change. The latter cohort is getting too small to sustain the company. Don’t see a way out for them.",
    "kind": "replied_to",
-   "at": "Nov 20 08:00 PM CT",
+   "at": "Nov 20 02:06 PM CT",
    "date": "2026-11-20",
-   "imp": 8,
-   "likes": 1,
+   "imp": 147,
+   "likes": 0,
    "replies": 0,
-   "reposts": 1,
+   "reposts": 0,
    "bm": 0,
-   "words": 3,
-   "parent_author": "KTmBoyle",
-   "parent_url": "https://x.com/KTmBoyle/status/2123544262398951695",
-   "parent_text": "This came home from Kindergarten today.\n\nMy work is done here. 🦃 🇺🇸🚀💪 https://t.co/WVopeNowAw",
-   "parent_imp": 564123,
-   "delay_h": 27.5,
-   "score": 68
+   "words": 44,
+   "parent_author": "coreyhainesco",
+   "parent_url": "https://x.com/coreyhainesco/status/2123609219731796186",
+   "parent_text": "Honestly mad respect for owning it https://t.co/LnTAGxLaj3",
+   "parent_imp": 122815,
+   "delay_h": 17.3,
+   "score": 147
   },
   {
    "id": "2123951610183205262",
@@ -424,7 +400,7 @@
    "kind": "replied_to",
    "at": "Nov 20 07:28 PM CT",
    "date": "2026-11-20",
-   "imp": 38,
+   "imp": 61,
    "likes": 1,
    "replies": 0,
    "reposts": 0,
@@ -433,21 +409,61 @@
    "parent_author": "AgustinLebron3",
    "parent_url": "https://x.com/AgustinLebron3/status/2123859702979211307",
    "parent_text": "So whatever SaaS that Bending Spoons buys, start working on a cheaper replacement?",
-   "parent_imp": 8522,
+   "parent_imp": 9831,
    "delay_h": 6.1,
-   "score": 58
+   "score": 81
+  },
+  {
+   "id": "2124197690573742215",
+   "url": "https://x.com/onhand_terry/status/2124197690573742215",
+   "text": "DM’ing you",
+   "kind": "replied_to",
+   "at": "Nov 21 11:46 AM CT",
+   "date": "2026-11-21",
+   "imp": 31,
+   "likes": 1,
+   "replies": 0,
+   "reposts": 0,
+   "bm": 0,
+   "words": 2,
+   "parent_author": "codyaims",
+   "parent_url": "https://x.com/codyaims/status/2123927898704982299",
+   "parent_text": "I am hiring the core team to build the foundation of Skill Factory in Austin, TX\n\nIf training 10 million Americans a year in Manufacturing and re-designing this part of life for generations excites yo",
+   "parent_imp": 136887,
+   "delay_h": 17.9,
+   "score": 51
+  },
+  {
+   "id": "2123959798412550176",
+   "url": "https://x.com/onhand_terry/status/2123959798412550176",
+   "text": "It’s not, continue!",
+   "kind": "replied_to",
+   "at": "Nov 20 08:00 PM CT",
+   "date": "2026-11-20",
+   "imp": 10,
+   "likes": 0,
+   "replies": 0,
+   "reposts": 0,
+   "bm": 0,
+   "words": 3,
+   "parent_author": "KTmBoyle",
+   "parent_url": "https://x.com/KTmBoyle/status/2123544262398951695",
+   "parent_text": "This came home from Kindergarten today.\n\nMy work is done here. 🦃 🇺🇸🚀💪 https://t.co/WVopeNowAw",
+   "parent_imp": 632576,
+   "delay_h": 27.5,
+   "score": 10
   }
  ],
  "notes": {
-  "date": "2026-11-21",
-  "summary": "Sat AM: 4 new replies Fri evening, all off-queue (@coreyhainesco 121 impressions, @denk_tweets 106, @AgustinLebron3 38, @KTmBoyle 8), so Friday's 9 queue picks went unused. The @kamilrextin reply (Nov 18) is now at 377 impressions, 2 likes; the garage door post is at 75 impressions, 3 likes.",
+  "date": "2026-11-25",
+  "summary": "Wed AM: no new replies since Friday. The only one since the last scorecard was off-queue: \"DM'ing you\" to @codyaims (Skill Factory hiring post) on Fri Nov 21 at 11:46 AM CT, 31 impressions, 1 like. Last week's queue picks went unused.",
   "lessons": [
-   "Replies on big parents still give the most reach: @coreyhainesco (107k-view parent) and @denk_tweets (77k) each passed 100 impressions within hours.",
-   "Tiny replies on huge posts can get buried: @KTmBoyle's 564k-view post earned your 4-word reply 8 impressions, so get in early.",
-   "@kamilrextin still the top reply of the week at 377 impressions with 1 reply back."
+   "@kamilrextin reply (Nov 18) is still the top of the week at 382 impressions, 2 likes, 1 reply back.",
+   "Big parents still carry reach: @denk_tweets (115k-view parent) 161 impressions, @coreyhainesco (123k) 147.",
+   "Getting in early matters: the 4-word reply on @KTmBoyle's 633k-view post sits at 10 impressions."
   ],
   "trends": [
-   "Last 7 days: 5 replies (650 impressions total), 1 original post (75 impressions)."
+   "Last 7 days: 6 replies, 792 impressions total, 4 likes, 1 reply back. Nothing posted Nov 22 to 25 so far."
   ]
  }
 }
