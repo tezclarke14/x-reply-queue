@@ -329,9 +329,20 @@
    "used_suggestion": 0,
    "best": "",
    "followers": null
+  },
+  {
+   "date": "2026-11-26",
+   "replies": 0,
+   "impressions": 0,
+   "likes": 0,
+   "replies_got": 0,
+   "avg_delay_h": null,
+   "used_suggestion": 0,
+   "best": "",
+   "followers": null
   }
  ],
- "updated": "Nov 25 2026 07:30 AM CT",
+ "updated": "Nov 26 2026 07:35 AM CT",
  "rows": [
   {
    "id": "2123231447032930767",
@@ -346,10 +357,10 @@
    "reposts": 0,
    "bm": 0,
    "words": 52,
-   "parent_author": "kamilrextin",
-   "parent_url": "https://x.com/kamilrextin/status/2123159871537476007",
+   "parent_author": "?",
+   "parent_url": "https://x.com/i/status/2123159871537476007",
    "parent_text": "Yikes https://t.co/0jgrUMpbLx",
-   "parent_imp": 27319,
+   "parent_imp": 27327,
    "delay_h": 4.7,
    "score": 452
   },
@@ -366,10 +377,10 @@
    "reposts": 0,
    "bm": 0,
    "words": 5,
-   "parent_author": "denk_tweets",
-   "parent_url": "https://x.com/denk_tweets/status/2123788839990735100",
+   "parent_author": "?",
+   "parent_url": "https://x.com/i/status/2123788839990735100",
    "parent_text": "a brief history of what happens when you get acquired by bending spoons:\n\n&gt; evernote: 129 people cut six weeks after the deal closed. the $130 plan is now $250\n\n&gt; brightcove: 2/3 of the US team ",
-   "parent_imp": 114754,
+   "parent_imp": 114784,
    "delay_h": 12.1,
    "score": 161
   },
@@ -386,10 +397,10 @@
    "reposts": 0,
    "bm": 0,
    "words": 44,
-   "parent_author": "coreyhainesco",
-   "parent_url": "https://x.com/coreyhainesco/status/2123609219731796186",
+   "parent_author": "?",
+   "parent_url": "https://x.com/i/status/2123609219731796186",
    "parent_text": "Honestly mad respect for owning it https://t.co/LnTAGxLaj3",
-   "parent_imp": 122815,
+   "parent_imp": 122835,
    "delay_h": 17.3,
    "score": 147
   },
@@ -406,10 +417,10 @@
    "reposts": 0,
    "bm": 0,
    "words": 4,
-   "parent_author": "AgustinLebron3",
-   "parent_url": "https://x.com/AgustinLebron3/status/2123859702979211307",
+   "parent_author": "?",
+   "parent_url": "https://x.com/i/status/2123859702979211307",
    "parent_text": "So whatever SaaS that Bending Spoons buys, start working on a cheaper replacement?",
-   "parent_imp": 9831,
+   "parent_imp": 9838,
    "delay_h": 6.1,
    "score": 81
   },
@@ -426,10 +437,10 @@
    "reposts": 0,
    "bm": 0,
    "words": 2,
-   "parent_author": "codyaims",
-   "parent_url": "https://x.com/codyaims/status/2123927898704982299",
+   "parent_author": "?",
+   "parent_url": "https://x.com/i/status/2123927898704982299",
    "parent_text": "I am hiring the core team to build the foundation of Skill Factory in Austin, TX\n\nIf training 10 million Americans a year in Manufacturing and re-designing this part of life for generations excites yo",
-   "parent_imp": 136887,
+   "parent_imp": 136959,
    "delay_h": 17.9,
    "score": 51
   },
@@ -446,24 +457,24 @@
    "reposts": 0,
    "bm": 0,
    "words": 3,
-   "parent_author": "KTmBoyle",
-   "parent_url": "https://x.com/KTmBoyle/status/2123544262398951695",
+   "parent_author": "?",
+   "parent_url": "https://x.com/i/status/2123544262398951695",
    "parent_text": "This came home from Kindergarten today.\n\nMy work is done here. 🦃 🇺🇸🚀💪 https://t.co/WVopeNowAw",
-   "parent_imp": 632576,
+   "parent_imp": 633048,
    "delay_h": 27.5,
    "score": 10
   }
  ],
  "notes": {
-  "date": "2026-11-25",
-  "summary": "Wed AM: no new replies since Friday. The only one since the last scorecard was off-queue: \"DM'ing you\" to @codyaims (Skill Factory hiring post) on Fri Nov 21 at 11:46 AM CT, 31 impressions, 1 like. Last week's queue picks went unused.",
+  "date": "2026-11-26",
+  "summary": "Thanksgiving AM: no new replies since Fri Nov 21. Last 7 days: 5 replies, all Nov 20-21; none of this week's queue picks were used.",
   "lessons": [
-   "@kamilrextin reply (Nov 18) is still the top of the week at 382 impressions, 2 likes, 1 reply back.",
-   "Big parents still carry reach: @denk_tweets (115k-view parent) 161 impressions, @coreyhainesco (123k) 147.",
-   "Getting in early matters: the 4-word reply on @KTmBoyle's 633k-view post sits at 10 impressions."
+   "Big parents still carry reach: @denk_tweets (115k-view parent) 162 impressions, @coreyhainesco (123k) 147.",
+   "Short off-queue replies keep landing likes: @AgustinLebron3 (62 impressions, 1 like), @codyaims (31, 1 like).",
+   "Getting in early matters: the 4-word reply on @KTmBoyle's 634k-view post sits at 10 impressions."
   ],
   "trends": [
-   "Last 7 days: 6 replies, 792 impressions total, 4 likes, 1 reply back. Nothing posted Nov 22 to 25 so far."
+   "Last 7 days: 5 replies, 412 impressions total, 2 likes, 0 replies back. Nothing posted Nov 22 to 26 so far."
   ]
  }
 }
