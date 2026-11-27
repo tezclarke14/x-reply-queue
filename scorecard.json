@@ -340,30 +340,21 @@
    "used_suggestion": 0,
    "best": "",
    "followers": null
+  },
+  {
+   "date": "2026-11-27",
+   "replies": 0,
+   "impressions": 0,
+   "likes": 0,
+   "replies_got": 0,
+   "avg_delay_h": null,
+   "used_suggestion": 0,
+   "best": "",
+   "followers": null
   }
  ],
- "updated": "Nov 26 2026 07:35 AM CT",
+ "updated": "Nov 27 2026 07:28 AM CT",
  "rows": [
-  {
-   "id": "2123231447032930767",
-   "url": "https://x.com/onhand_terry/status/2123231447032930767",
-   "text": "This happens when a company raises / is hot and mercenaries join - they care more about boosting their standing based on attachment to the hot company and are not self-aware enough to realise not to talk like this to prospects / customers. Had a call once with a rep from JP",
-   "kind": "replied_to",
-   "at": "Nov 18 07:46 PM CT",
-   "date": "2026-11-18",
-   "imp": 382,
-   "likes": 2,
-   "replies": 1,
-   "reposts": 0,
-   "bm": 0,
-   "words": 52,
-   "parent_author": "?",
-   "parent_url": "https://x.com/i/status/2123159871537476007",
-   "parent_text": "Yikes https://t.co/0jgrUMpbLx",
-   "parent_imp": 27327,
-   "delay_h": 4.7,
-   "score": 452
-  },
   {
    "id": "2123971954621181954",
    "url": "https://x.com/onhand_terry/status/2123971954621181954",
@@ -371,7 +362,7 @@
    "kind": "replied_to",
    "at": "Nov 20 08:49 PM CT",
    "date": "2026-11-20",
-   "imp": 161,
+   "imp": 162,
    "likes": 0,
    "replies": 0,
    "reposts": 0,
@@ -380,9 +371,9 @@
    "parent_author": "?",
    "parent_url": "https://x.com/i/status/2123788839990735100",
    "parent_text": "a brief history of what happens when you get acquired by bending spoons:\n\n&gt; evernote: 129 people cut six weeks after the deal closed. the $130 plan is now $250\n\n&gt; brightcove: 2/3 of the US team ",
-   "parent_imp": 114784,
+   "parent_imp": 115005,
    "delay_h": 12.1,
-   "score": 161
+   "score": 162
   },
   {
    "id": "2123870668567540183",
@@ -400,7 +391,7 @@
    "parent_author": "?",
    "parent_url": "https://x.com/i/status/2123609219731796186",
    "parent_text": "Honestly mad respect for owning it https://t.co/LnTAGxLaj3",
-   "parent_imp": 122835,
+   "parent_imp": 122974,
    "delay_h": 17.3,
    "score": 147
   },
@@ -411,7 +402,7 @@
    "kind": "replied_to",
    "at": "Nov 20 07:28 PM CT",
    "date": "2026-11-20",
-   "imp": 61,
+   "imp": 66,
    "likes": 1,
    "replies": 0,
    "reposts": 0,
@@ -420,9 +411,9 @@
    "parent_author": "?",
    "parent_url": "https://x.com/i/status/2123859702979211307",
    "parent_text": "So whatever SaaS that Bending Spoons buys, start working on a cheaper replacement?",
-   "parent_imp": 9838,
+   "parent_imp": 9891,
    "delay_h": 6.1,
-   "score": 81
+   "score": 86
   },
   {
    "id": "2124197690573742215",
@@ -440,7 +431,7 @@
    "parent_author": "?",
    "parent_url": "https://x.com/i/status/2123927898704982299",
    "parent_text": "I am hiring the core team to build the foundation of Skill Factory in Austin, TX\n\nIf training 10 million Americans a year in Manufacturing and re-designing this part of life for generations excites yo",
-   "parent_imp": 136959,
+   "parent_imp": 137337,
    "delay_h": 17.9,
    "score": 51
   },
@@ -460,21 +451,21 @@
    "parent_author": "?",
    "parent_url": "https://x.com/i/status/2123544262398951695",
    "parent_text": "This came home from Kindergarten today.\n\nMy work is done here. 🦃 🇺🇸🚀💪 https://t.co/WVopeNowAw",
-   "parent_imp": 633048,
+   "parent_imp": 635115,
    "delay_h": 27.5,
    "score": 10
   }
  ],
  "notes": {
-  "date": "2026-11-26",
-  "summary": "Thanksgiving AM: no new replies since Fri Nov 21. Last 7 days: 5 replies, all Nov 20-21; none of this week's queue picks were used.",
+  "date": "2026-11-27",
+  "summary": "Black Friday AM: still no new replies since Sat Nov 21. Last 7 days: 5 replies, all Nov 20-21; none of this week's queue picks were used.",
   "lessons": [
-   "Big parents still carry reach: @denk_tweets (115k-view parent) 162 impressions, @coreyhainesco (123k) 147.",
-   "Short off-queue replies keep landing likes: @AgustinLebron3 (62 impressions, 1 like), @codyaims (31, 1 like).",
-   "Getting in early matters: the 4-word reply on @KTmBoyle's 634k-view post sits at 10 impressions."
+   "Big parents still carry reach: @denk_tweets (115k-view parent) is the top reply this week at 162 impressions.",
+   "Short off-queue replies keep landing likes: @AgustinLebron3 and @codyaims each got 1 like.",
+   "A 6-day gap means zero new reach; one early reply on a fresh pick would restart the data."
   ],
   "trends": [
-   "Last 7 days: 5 replies, 412 impressions total, 2 likes, 0 replies back. Nothing posted Nov 22 to 26 so far."
+   "Last 7 days: 5 replies, 416 impressions total, 2 likes, 0 replies back. Nothing posted Nov 22 to 27 so far."
   ]
  }
 }
