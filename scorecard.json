@@ -353,7 +353,7 @@
    "followers": null
   }
  ],
- "updated": "Nov 27 2026 07:28 AM CT",
+ "updated": "Nov 27 2026 12:32 PM CT",
  "rows": [
   {
    "id": "2123971954621181954",
@@ -371,7 +371,7 @@
    "parent_author": "?",
    "parent_url": "https://x.com/i/status/2123788839990735100",
    "parent_text": "a brief history of what happens when you get acquired by bending spoons:\n\n&gt; evernote: 129 people cut six weeks after the deal closed. the $130 plan is now $250\n\n&gt; brightcove: 2/3 of the US team ",
-   "parent_imp": 115005,
+   "parent_imp": 115085,
    "delay_h": 12.1,
    "score": 162
   },
@@ -391,7 +391,7 @@
    "parent_author": "?",
    "parent_url": "https://x.com/i/status/2123609219731796186",
    "parent_text": "Honestly mad respect for owning it https://t.co/LnTAGxLaj3",
-   "parent_imp": 122974,
+   "parent_imp": 123001,
    "delay_h": 17.3,
    "score": 147
   },
@@ -411,7 +411,7 @@
    "parent_author": "?",
    "parent_url": "https://x.com/i/status/2123859702979211307",
    "parent_text": "So whatever SaaS that Bending Spoons buys, start working on a cheaper replacement?",
-   "parent_imp": 9891,
+   "parent_imp": 9897,
    "delay_h": 6.1,
    "score": 86
   },
@@ -431,7 +431,7 @@
    "parent_author": "?",
    "parent_url": "https://x.com/i/status/2123927898704982299",
    "parent_text": "I am hiring the core team to build the foundation of Skill Factory in Austin, TX\n\nIf training 10 million Americans a year in Manufacturing and re-designing this part of life for generations excites yo",
-   "parent_imp": 137337,
+   "parent_imp": 137379,
    "delay_h": 17.9,
    "score": 51
   },
@@ -451,21 +451,21 @@
    "parent_author": "?",
    "parent_url": "https://x.com/i/status/2123544262398951695",
    "parent_text": "This came home from Kindergarten today.\n\nMy work is done here. 🦃 🇺🇸🚀💪 https://t.co/WVopeNowAw",
-   "parent_imp": 635115,
+   "parent_imp": 635392,
    "delay_h": 27.5,
    "score": 10
   }
  ],
  "notes": {
   "date": "2026-11-27",
-  "summary": "Black Friday AM: still no new replies since Sat Nov 21. Last 7 days: 5 replies, all Nov 20-21; none of this week's queue picks were used.",
+  "summary": "Black Friday PM: still no new replies since Sat Nov 21. Last 7 days: 5 replies, all Nov 20-21; neither this morning's @LoganARobison pick nor any queue pick this week was used.",
   "lessons": [
    "Big parents still carry reach: @denk_tweets (115k-view parent) is the top reply this week at 162 impressions.",
    "Short off-queue replies keep landing likes: @AgustinLebron3 and @codyaims each got 1 like.",
    "A 6-day gap means zero new reach; one early reply on a fresh pick would restart the data."
   ],
   "trends": [
-   "Last 7 days: 5 replies, 416 impressions total, 2 likes, 0 replies back. Nothing posted Nov 22 to 27 so far."
+   "Last 7 days: 5 replies, all Nov 20-21. Nothing posted Nov 22 to 27 so far."
   ]
  }
 }
